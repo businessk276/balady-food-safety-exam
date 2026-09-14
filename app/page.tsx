@@ -43,7 +43,7 @@ export default function HomePage() {
 
   const currentQuestion = questions[current];
   const progress = questions.length ? ((current + 1) / questions.length) * 100 : 0;
-  const score = useMemo(() => answers.reduce((total, answer, index) => total + (answer !== null && answer === questions[index]?.correctAnswer ? 1 : 0), 0), [answers, questions]);
+  const score = useMemo(() => answers.reduce<number>((total, answer, index) => total + (answer !== null && answer === questions[index]?.correctAnswer ? 1 : 0), 0), [answers, questions]);
   const minutes = Math.floor(seconds / 60).toString().padStart(2, '0');
   const remainder = (seconds % 60).toString().padStart(2, '0');
 
