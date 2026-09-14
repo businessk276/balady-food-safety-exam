@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700;800&family=Hind+Siliguri:wght@400;600;700&family=Inter:wght@400;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700;800&family=Inter:wght@400;600;700;800&family=Tiro+Bangla:ital@0;1&display=swap');
 
 :root { --green-900:#064e3b; --green-800:#065f46; --green-600:#059669; --green-50:#f0fdf4; --ink:#172126; --muted:#64748b; --line:#e5e7eb; --page:#f3f4f6; }
 * { box-sizing:border-box; }
 html,body { margin:0; min-height:100%; }
-body { font-family:'Inter','Hind Siliguri','Cairo',sans-serif; color:var(--ink); background:var(--page); }
+body { font-family:'Tiro Bangla','Inter','Cairo',sans-serif; color:var(--ink); background:var(--page); }
 button,input,textarea { font:inherit; }
 button { cursor:pointer; }
 .app { min-height:100vh; }
