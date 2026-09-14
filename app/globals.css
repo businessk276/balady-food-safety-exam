@@ -9,7 +9,7 @@ button { cursor:pointer; }
 .app { min-height:100vh; }
 .header { color:white; background:linear-gradient(100deg,var(--green-900),var(--green-800),var(--green-900)); border-bottom:1px solid #047857; box-shadow:0 2px 8px #0002; }
 .header-inner { max-width:1100px; margin:auto; padding:12px 16px; display:flex; justify-content:space-between; align-items:center; gap:12px; }
-.brand { display:flex; align-items:center; gap:12px; cursor:pointer; }
+.brand { display:flex; align-items:center; gap:12px; cursor:pointer; color:inherit; text-decoration:none; }
 .brand-mark { background:#ffffff1a; border:1px solid #ffffff33; border-radius:12px; padding:8px 11px; font-size:22px; }
 .brand h1 { font-size:18px; margin:0; font-weight:800; }
 .brand p { margin:2px 0 0; font-size:11px; color:#dcfce7; }
@@ -89,6 +89,12 @@ button { cursor:pointer; }
 .option.selected { color:#064e3b; background:#f0fdf4; border-color:var(--green-600); font-weight:700; }
 .option-key { flex:none; width:25px; height:25px; display:grid; place-items:center; border:1px solid #cbd5e1; border-radius:8px; font-size:12px; font-weight:800; }
 .option.selected .option-key { color:#fff; background:var(--green-600); border-color:var(--green-600); }
+.rearrange-options { display:grid; gap:10px; }
+.rearrange-option { width:100%; min-width:0; text-align:left; display:flex; align-items:flex-start; gap:12px; padding:13px; border:1px solid var(--line); border-radius:12px; color:#475569; background:#fff; cursor:grab; user-select:none; }
+.rearrange-option:hover { background:#f8fafc; border-color:#cbd5e1; }
+.rearrange-option:active { cursor:grabbing; }
+.rearrange-option > span:last-child { min-width:0; overflow-wrap:anywhere; }
+.drag-handle { flex:none; color:var(--muted); font-size:18px; line-height:25px; }
 .quiz-footer { display:flex; justify-content:space-between; padding:13px 16px; background:#f8fafc; border-top:1px solid var(--line); }
 .admin-link { margin-top:20px; display:inline-block; color:var(--green-800); font-size:12px; }
 .form-grid { display:grid; gap:14px; }

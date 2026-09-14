@@ -1,6 +1,6 @@
 import { collection, deleteDoc, doc, getDocs, orderBy, query, serverTimestamp, setDoc } from 'firebase/firestore';
 import { db } from './firebase';
-import type { Language, LocalizedText, Question, QuestionOption } from './types';
+import type { Language, LocalizedText, Question, QuestionOption, QuestionType } from './types';
 
 const questionsCollection = collection(db, 'questions');
 
@@ -17,13 +17,17 @@ export function normalizeQuestion(id: string, data: Record<string, unknown>): Qu
     const item = (option ?? {}) as Record<string, unknown>;
     return { text: localizedText(item.text), image: typeof item.image === 'string' ? item.image : '' };
   });
-  const parsedCorrectAnswer = typeof data.correctAnswer === 'number' ? data.correctAnswer : Number(data.correctAnswer);
+  const questionType: QuestionType = data.questionType === 'rearrange' ? 'rearrange' : 'normal';
+  const parsedCorrectAnswer = questionType === 'rearrange'
+    ? (typeof data.correctAnswer === 'string' ? data.correctAnswer : '')
+    : (typeof data.correctAnswer === 'number' ? data.correctAnswer : Number(data.correctAnswer));
   return {
     id,
     question: localizedText(data.question ?? data.questionText),
     questionImage: typeof data.questionImage === 'string' ? data.questionImage : '',
     options,
-    correctAnswer: Number.isInteger(parsedCorrectAnswer) ? parsedCorrectAnswer : undefined,
+    questionType,
+    correctAnswer: questionType === 'rearrange' ? parsedCorrectAnswer : Number.isInteger(parsedCorrectAnswer) ? parsedCorrectAnswer : undefined,
     createdAt: data.createdAt,
     updatedAt: data.updatedAt,
   };
@@ -40,6 +44,7 @@ export async function saveQuestion(question: Omit<Question, 'id'>, id?: string) 
     question: question.question,
     questionImage: question.questionImage ?? '',
     options: question.options,
+    questionType: question.questionType ?? 'normal',
     correctAnswer: question.correctAnswer ?? null,
     ...(id ? { updatedAt: serverTimestamp() } : { createdAt: serverTimestamp(), updatedAt: serverTimestamp() }),
   }, { merge: Boolean(id) });

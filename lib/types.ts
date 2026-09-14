@@ -11,12 +11,15 @@ export type QuestionOption = {
   image?: string;
 };
 
+export type QuestionType = 'normal' | 'rearrange';
+
 export type Question = {
   id: string;
   question: LocalizedText;
   questionImage?: string;
   options: QuestionOption[];
-  correctAnswer?: number;
+  questionType?: QuestionType;
+  correctAnswer?: number | string;
   createdAt?: unknown;
   updatedAt?: unknown;
 };
