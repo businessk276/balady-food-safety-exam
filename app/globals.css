@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700;800&family=Hind+Siliguri:wght@400;600;700&family=Inter:wght@400;600;700;800&display=swap');
+
+:root { --green-900:#064e3b; --green-800:#065f46; --green-600:#059669; --green-50:#f0fdf4; --ink:#172126; --muted:#64748b; --line:#e5e7eb; --page:#f3f4f6; }
+* { box-sizing:border-box; }
+html,body { margin:0; min-height:100%; }
+body { font-family:'Inter','Hind Siliguri','Cairo',sans-serif; color:var(--ink); background:var(--page); }
+button,input,textarea { font:inherit; }
+button { cursor:pointer; }
+.app { min-height:100vh; }
+.header { color:white; background:linear-gradient(100deg,var(--green-900),var(--green-800),var(--green-900)); border-bottom:1px solid #047857; box-shadow:0 2px 8px #0002; }
+.header-inner { max-width:1100px; margin:auto; padding:12px 16px; display:flex; justify-content:space-between; align-items:center; gap:12px; }
+.brand { display:flex; align-items:center; gap:12px; cursor:pointer; }
+.brand-mark { background:#ffffff1a; border:1px solid #ffffff33; border-radius:12px; padding:8px 11px; font-size:22px; }
+.brand h1 { font-size:18px; margin:0; font-weight:800; }
+.brand p { margin:2px 0 0; font-size:11px; color:#dcfce7; }
+.controls,.lang-switch { display:flex; align-items:center; gap:6px; }
+.lang-switch { background:#064e3bcc; border:1px solid #ffffff33; border-radius:10px; padding:3px; }
+.lang-switch button,.home-button { border:0; color:#fff; background:transparent; border-radius:8px; padding:6px 9px; font-size:12px; font-weight:700; }
+.lang-switch button.active,.lang-switch button:hover,.home-button:hover { background:#ffffff26; }
+.home-button { border:1px solid #ffffff33; }
+.main { width:min(100% - 24px, 900px); min-height:calc(100vh - 66px); margin:auto; padding:16px 0; display:flex; align-items:center; justify-content:center; }
+.loading-state { display:flex; flex-direction:column; align-items:center; justify-content:center; gap:14px; color:var(--muted); font-size:14px; }
+.circular-loader { width:38px; height:38px; display:block; border:4px solid #d1fae5; border-top-color:var(--green-600); border-radius:50%; animation:loader-spin .8s linear infinite; }
+@keyframes loader-spin { to { transform:rotate(360deg); } }
+.panel { width:100%; background:#fff; border:1px solid #eef0f2; border-radius:16px; box-shadow:0 8px 25px #102a4310; }
+.start-panel,.result-panel { text-align:center; padding:32px; }
+.icon-box { width:64px; height:64px; margin:0 auto 16px; display:grid; place-items:center; border-radius:16px; background:var(--green-50); color:var(--green-600); border:1px solid #dcfce7; font-size:28px; }
+.panel h2 { margin:0 0 8px; font-size:24px; }
+.subtitle { color:var(--muted); font-size:14px; line-height:1.6; max-width:620px; margin:0 auto 24px; }
+.stats { display:grid; grid-template-columns:repeat(3,1fr); gap:10px; max-width:620px; margin:0 auto 24px; }
+.stat { background:#f8fafc; border:1px solid #eef0f2; border-radius:12px; padding:12px; text-align:left; }
+.stat small { display:block; color:var(--muted); font-size:11px; }
+.stat strong { display:block; margin-top:4px; font-size:16px; }
+.primary,.secondary,.danger { border:0; border-radius:10px; padding:11px 16px; font-weight:700; }
+.primary { color:#fff; background:var(--green-600); box-shadow:0 4px 10px #05966933; }
+.primary:hover { background:#047857; }
+.secondary { color:#374151; background:#f1f5f9; }
+.danger { color:#b91c1c; background:#fff1f2; }
+.quiz-panel { overflow:hidden; display:flex; flex-direction:column; }
+.quiz-top { display:flex; align-items:center; justify-content:space-between; gap:12px; padding:13px 16px; background:#f8fafc; border-bottom:1px solid var(--line); }
+.badge { color:#065f46; background:#dcfce7; border-radius:6px; padding:4px 7px; font-size:10px; font-weight:800; text-transform:uppercase; }
+.counter { font-size:14px; font-weight:800; }
+.timer { color:#be123c; background:#fff1f2; border:1px solid #fecdd3; border-radius:8px; padding:6px 10px; font-size:13px; font-weight:800; }
+.progress { width:170px; height:8px; background:#e5e7eb; border-radius:99px; overflow:hidden; }
+.progress span { display:block; height:100%; background:var(--green-600); }
+.quiz-body { padding:24px; }
+.quiz-body h3 { font-size:16px; line-height:1.5; margin:0 0 16px; }
+.question-image,.option-image { width:auto; max-width:100%; border-radius:8px; border:1px solid var(--line); object-fit:contain; }
+.question-image { max-height:180px; display:block; margin:0 0 16px; }
+.option-image { max-height:90px; margin-top:8px; display:block; }
+.image-preview { margin-top:8px; border:1px solid var(--line); border-radius:8px; padding:8px; background:#fafafa; max-width:200px; }
+.image-preview img { max-width:100%; max-height:200px; border-radius:6px; display:block; }
+.help-text { font-size:11px; color:var(--muted); margin:4px 0 0; font-style:italic; }
+.options { display:grid; grid-template-columns:repeat(2, minmax(0, 1fr)); gap:10px; }
+.option { width:100%; min-width:0; text-align:left; display:flex; align-items:flex-start; gap:12px; padding:13px; border:1px solid var(--line); border-radius:12px; color:#475569; background:#fff; }
+.option > span:last-child { min-width:0; overflow-wrap:anywhere; }
+.option:hover { background:#f8fafc; border-color:#cbd5e1; }
+.option.selected { color:#064e3b; background:#f0fdf4; border-color:var(--green-600); font-weight:700; }
+.option-key { flex:none; width:25px; height:25px; display:grid; place-items:center; border:1px solid #cbd5e1; border-radius:8px; font-size:12px; font-weight:800; }
+.option.selected .option-key { color:#fff; background:var(--green-600); border-color:var(--green-600); }
+.quiz-footer { display:flex; justify-content:space-between; padding:13px 16px; background:#f8fafc; border-top:1px solid var(--line); }
+.admin-link { margin-top:20px; display:inline-block; color:var(--green-800); font-size:12px; }
+.form-grid { display:grid; gap:14px; }
+.field { display:grid; gap:6px; }
+.field label { font-size:12px; font-weight:800; color:#334155; }
+.field input,.field textarea { width:100%; border:1px solid #cbd5e1; border-radius:8px; padding:10px 11px; outline:none; background:#fff; }
+.field select { width:100%; border:1px solid #cbd5e1; border-radius:8px; padding:10px 11px; outline:none; background:#fff; }
+.field input:focus,.field textarea:focus { border-color:var(--green-600); box-shadow:0 0 0 3px #0596691a; }
+.admin-panel { align-self:stretch; padding:24px; }
+.admin-toolbar,.row-actions,.admin-heading { display:flex; align-items:center; justify-content:space-between; gap:10px; }
+.admin-heading { margin-bottom:20px; }
+.admin-heading h2 { margin:0; font-size:22px; }
+.question-list { display:grid; gap:10px; }
+.question-row { display:grid; grid-template-columns:1fr auto auto; gap:12px; align-items:center; padding:13px; border:1px solid var(--line); border-radius:10px; }
+.question-row p { margin:0; font-size:13px; line-height:1.45; }
+.question-bangla { color:var(--muted); margin-top:4px !important; }
+.question-row small { color:var(--muted); }
+.option-editor { display:grid; grid-template-columns:1fr 1fr auto; gap:8px; align-items:end; }
+.admin-form { max-width:760px; margin:auto; }
+.admin-form h3 { margin:0 0 14px; }
+.notice { padding:10px 12px; border-radius:8px; font-size:13px; margin-bottom:14px; }
+.notice.error { color:#991b1b; background:#fef2f2; }
+.notice.success { color:#166534; background:#f0fdf4; }
+@media (max-width:650px) { .header-inner,.quiz-top { align-items:flex-start; } .header-inner { padding:10px 10px; } .brand { min-width:0; } .brand h1 { font-size:16px; } .brand p { max-width:170px; line-height:1.3; } .controls { flex-wrap:wrap; justify-content:flex-end; } .main { width:calc(100% - 16px); padding:8px 0; } .start-panel,.result-panel,.admin-panel { padding:20px 14px; } .stats { gap:5px; } .stat { padding:8px; } .stat strong { font-size:13px; } .quiz-panel { min-height:calc(100vh - 82px); max-width:100%; } .quiz-top { flex-wrap:wrap; } .progress { width:100%; order:3; } .quiz-body { padding:16px 12px; } .question-image { width:100%; max-height:none; } .options { grid-template-columns:1fr; } .option { padding:11px; } .quiz-footer { flex-wrap:wrap; gap:8px; } .quiz-footer button { flex:1 1 140px; } .option-editor,.question-row { grid-template-columns:1fr; } .row-actions { justify-content:flex-start; flex-wrap:wrap; } }

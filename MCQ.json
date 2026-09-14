@@ -1,0 +1,2756 @@
+[
+    {
+        "question": "What is the most important process for ensuring safety when producing food in large quantities?",
+        "options": [
+            "A. Using modern equipment in the production process",
+            "B. Carefully checking every step of production",
+            "C. Reducing the number of workers in the production area",
+            "D. Reducing the storage time of the final product"
+        ],
+        "questionBn": "বিশাল পরিমাণে খাদ্য উৎপাদনের সময় নিরাপত্তা নিশ্চিত করার সবচেয়ে গুরুত্বপূর্ণ প্রক্রিয়া কোনটি?",
+        "optionsBn": [
+            "A. উৎপাদন প্রক্রিয়ায় আধুনিক সরঞ্জাম ব্যবহার করা",
+            "B. উৎপাদনের প্রতিটি ধাপ সতর্কতার সাথে পরীক্ষা করা",
+            "C. উৎপাদন এলাকায় শ্রমিকের সংখ্যা কমানো",
+            "D. চূড়ান্ত পণ্যের সংরক্ষণ সময় কমানো"
+        ],
+        "questionAr": "ما هي أهم عملية لضمان السلامة عند إنتاج الغذاء بكميات كبيرة؟",
+        "optionsAr": [
+            "A. استخدام معدات حديثة في عملية الإنتاج",
+            "B. التحقق بعناية من كل خطوة من خطوات الإنتاج",
+            "C. تقليل عدد العمال في منطقة الإنتاج",
+            "D. تقليل فترة تخزين المنتج النهائي"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "If you notice a colleague not adhering to wearing protective gloves, what is the best course of action? (Select all that apply)",
+        "options": [
+            "A. Ignore the matter to avoid problems",
+            "B. Remind them of the safety rules",
+            "C. Immediately inform the supervisor",
+            "D. Immediately file a formal complaint",
+            "E. Discuss the issue with them and reprimand them"
+        ],
+        "questionBn": "আপনি যদি লক্ষ করেন যে একজন সহকর্মী সুরক্ষামূলক গ্লাভস পরছেন না, তবে সবচেয়ে সঠিক পদক্ষেপ কোনটি? (প্রযোজ্য সবগুলি নির্বাচন করুন)",
+        "optionsBn": [
+            "A. ঝামেলা এড়াতে বিষয়টি উপেক্ষা করা",
+            "B. তাকে নিরাপত্তা নিয়মের কথা স্মরণ করিয়ে দেওয়া",
+            "C. অবিলম্বে সুপারভাইজারকে জানানো",
+            "D. অবিলম্বে একটি আনুষ্ঠানিক অভিযোগ দায়ের করা",
+            "E. তার সাথে বিষয়টি নিয়ে আলোচনা করা এবং তাকে তিরস্কার করা"
+        ],
+        "questionAr": "إذا لاحظت أن زميلاً لا يلتزم بارتداء القفازات الواقية، فما هو التصرف الأفضل؟ (حدد كل ما ينطبق)",
+        "optionsAr": [
+            "A. تجاهل الأمر لتجنب المشاكل",
+            "B. تذكيره بقواعد السلامة",
+            "C. إبلاغ المشرف فوراً",
+            "D. تقديم شكوى رسمية فوراً",
+            "E. مناقشة المشكلة معه وتوبيخه"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the integrated approach to limit the spread of diseases in food establishments?",
+        "options": [
+            "Regular cleaning of the workplace only",
+            "Personal hygiene and clean equipment only",
+            "Health education, health monitoring, and personal responsibility",
+            "Following basic safety guidelines"
+        ],
+        "questionBn": "খাদ্য প্রতিষ্ঠানে রোগ বিস্তার রোধ করার সমন্বিত পদ্ধতি কোনটি?",
+        "optionsBn": [
+            "কেবলমাত্র কর্মক্ষেত্রের নিয়মিত পরিচ্ছন্নতা",
+            "কেবলমাত্র ব্যক্তিগত পরিচ্ছন্নতা এবং পরিষ্কার সরঞ্জাম",
+            "স্বাস্থ্য শিক্ষা, স্বাস্থ্য পর্যবেক্ষণ এবং ব্যক্তিগত দায়িত্ব",
+            "মৌলিক নিরাপত্তা নির্দেশিকা অনুসরণ করা"
+        ],
+        "questionAr": "ما هو النهج المتكامل للحد من انتشار الأمراض في المنشآت الغذائية؟",
+        "optionsAr": [
+            "التنظيف المنتظم لمكان العمل فقط",
+            "النظافة الشخصية ونظافة المعدات فقط",
+            "التثقيف الصحي، والمراقبة الصحية، والمسؤولية الشخصية",
+            "اتباع إرشادات السلامة الأساسية"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Arrange the practical procedures for implementing self-health monitoring in order of priority:",
+        "options": [
+            "A. Checking work equipment and tools",
+            "B. Reviewing the validity of health certificates for employees",
+            "C. Verifying the cleanliness of the workplace and work surfaces",
+            "D. Preparing a report on compliance with the process"
+        ],
+        "questionBn": "স্বয়ংক্রিয় স্বাস্থ্য পর্যবেক্ষণ বাস্তবায়নের ব্যবহারিক পদ্ধতিগুলো অগ্রাধিকারের ভিত্তিতে সাজান:",
+        "optionsBn": [
+            "A. কাজের সরঞ্জাম এবং যন্ত্রপাতি পরীক্ষা করা",
+            "B. কর্মচারীদের স্বাস্থ্য সনদের মেয়াদ পর্যালোচনা করা",
+            "C. কর্মক্ষেত্র এবং কাজের পৃষ্ঠের পরিচ্ছন্নতা যাচাই করা",
+            "D. প্রক্রিয়া মেনে চলার বিষয়ে একটি প্রতিবেদন তৈরি করা"
+        ],
+        "questionAr": "رتب الإجراءات العملية لتطبيق المراقبة الذاتية للصحة حسب الأولوية:",
+        "optionsAr": [
+            "A. فحص معدات وأدوات العمل",
+            "B. مراجعة صلاحية الشهادات الصحية للموظفين",
+            "C. التحقق من نظافة مكان العمل وأسطح العمل",
+            "D. إعداد تقرير عن الالتزام بالعملية"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "In which of the following situations does personal hygiene require extra attention during food handling? (Select all that apply)",
+        "options": [
+            "A. When preparing salads and sandwiches that will not be cooked later",
+            "B. After touching your face or hair while preparing food",
+            "C. When a new order of canned raw materials is received",
+            "D. After handling raw meat before preparing vegetables",
+            "E. When recording orders in the restaurant's computer system"
+        ],
+        "questionBn": "খাদ্য নাড়াচাড়ার সময় নিচের কোন পরিস্থিতিতে ব্যক্তিগত স্বাস্থ্যবিধিতে অতিরিক্ত মনোযোগ দেওয়া প্রয়োজন? (প্রযোজ্য সবগুলি নির্বাচন করুন)",
+        "optionsBn": [
+            "A. স্যালাড এবং স্যান্ডউইচ তৈরি করার সময় যা পরবর্তীতে রান্না করা হবে না",
+            "B. খাবার তৈরির সময় মুখ বা চুল স্পর্শ করার পর",
+            "C. টিনজাত কাঁচামালের একটি নতুন অর্ডার পাওয়ার পর",
+            "D. শাকসবজি প্রস্তুত করার আগে কাঁচা মাংস নাড়াচাড়া করার পর",
+            "E. রেস্তোরাঁর কম্পিউটার সিস্টেমে অর্ডার রেকর্ড করার সময়"
+        ],
+        "questionAr": "في أي من الحالات التالية تطلب النظافة الشخصية اهتماماً إضافياً أثناء تداول الطعام؟ (حدد كل ما ينطبق)",
+        "optionsAr": [
+            "A. عند إعداد السلطات والساندويتشات التي لن يتم طهيها لاحقاً",
+            "B. بعد لمس الوجه أو الشعر أثناء إعداد الطعام",
+            "C. عند استلام شحنة جديدة من المواد الخام المعلبة",
+            "D. بعد التعامل مع اللحوم النيئة قبل إعداد الخضار",
+            "E. عند تسجيل الطلبات في نظام الكمبيوتر الخاص بالمطعم"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the most important process for ensuring safety when producing food in large quantities?",
+        "options": [
+            "A. Using modern equipment in the production process",
+            "B. Carefully checking every step of production",
+            "C. Reducing the number of workers in the production area",
+            "D. Reducing the storage time of the final product"
+        ],
+        "questionBn": "বিশাল পরিমাণে খাদ্য উৎপাদনের সময় নিরাপত্তা নিশ্চিত করার সবচেয়ে গুরুত্বপূর্ণ প্রক্রিয়া কোনটি?",
+        "optionsBn": [
+            "A. উৎপাদন প্রক্রিয়ায় আধুনিক সরঞ্জাম ব্যবহার করা",
+            "B. উৎপাদনের প্রতিটি ধাপ সতর্কতার সাথে পরীক্ষা করা",
+            "C. উৎপাদন এলাকায় শ্রমিকের সংখ্যা কমানো",
+            "D. চূড়ান্ত পণ্যের সংরক্ষণ সময় কমানো"
+        ],
+        "questionAr": "ما هي أهم عملية لضمان السلامة عند إنتاج الغذاء بكميات كبيرة؟",
+        "optionsAr": [
+            "A. استخدام معدات حديثة في عملية الإنتاج",
+            "B. التحقق بعناية من كل خطوة من خطوات الإنتاج",
+            "C. تقليل عدد العمال في منطقة الإنتاج",
+            "D. تقليل فترة تخزين المنتج النهائي"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "If a worker suspects that food might be contaminated, they should wait for instructions from a supervisor before taking any action.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "questionBn": "যদি একজন কর্মী সন্দেহ করেন যে খাবার দূষিত হতে পারে, তবে কোনো পদক্ষেপ নেওয়ার আগে তার সুপারভাইজারের নির্দেশের জন্য অপেক্ষা করা উচিত।",
+        "optionsBn": [
+            "সত্য",
+            "মিথ্যা"
+        ],
+        "questionAr": "إذا اشتبه عامل في أن الطعام قد يكون ملوثاً، فيجب عليه الانتظار لحين الحصول على تعليمات من المشرف قبل اتخاذ أي إجراء.",
+        "optionsAr": [
+            "صحيح",
+            "خطأ"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "In the food preparation area, how do you correctly handle different foods? (Select all that apply)",
+        "options": [
+            "A. Leaving food open to cool quickly",
+            "B. Storing raw meat on the bottom shelf of the refrigerator",
+            "C. Always keeping ready-to-eat food items covered",
+            "D. Washing fruits and vegetables thoroughly before cutting",
+            "E. Keeping cooked food in the same area as raw food"
+        ],
+        "questionBn": "খাবার প্রস্তুতকরণ এলাকায় বিভিন্ন খাবার কীভাবে সঠিকভাবে নাড়াচাড়া করবেন? (প্রযোজ্য সবগুলি নির্বাচন করুন)",
+        "optionsBn": [
+            "A. দ্রুত ঠান্ডা করার জন্য খাবার খোলা রাখা",
+            "B. রেফ্রিজারেটরের নীচের তাকটিতে কাঁচা মাংস সংরক্ষণ করা",
+            "C. খাওয়ার জন্য তৈরি খাবার সবসময় ঢেকে রাখা",
+            "D. কাটার আগে ফল ও সবজি ভালোভাবে ধুয়ে নেওয়া",
+            "E. রান্না করা খাবার কাঁচা খাবারের একই এলাকায় রাখা"
+        ],
+        "questionAr": "في منطقة إعداد الطعام، كيف تتعامل بشكل صحيح مع الأطعمة المختلفة؟ (حدد كل ما ينطبق)",
+        "optionsAr": [
+            "A. ترك الطعام مكشوفاً ليبرد بسرعة",
+            "B. تخزين اللحوم النيئة في الرف السفلي من الثلاجة",
+            "C. إبقاء الأطعمة الجاهزة للأكل مغطاة دائماً",
+            "D. غسل الفواكه والخضروات جيداً قبل تقطيعها",
+            "E. حفظ الطعام المطبوخ في نفس منطقة الطعام النيء"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What distinguishes mold (fungi) in food from other microbial contaminants?",
+        "options": [
+            "A. Their ability to survive in dry environments and not require moisture",
+            "B. Their ability to withstand low temperatures in the freezer",
+            "C. Their ability to grow and reproduce directly on the surface of food",
+            "D. Their ability to reproduce without producing any toxins in food"
+        ],
+        "questionBn": "খাদ্যে ছাঁচ (ছত্রাক) কীভাবে অন্যান্য অণুজীব দূষক থেকে আলাদা?",
+        "optionsBn": [
+            "A. শুষ্ক পরিবেশে টিকে থাকার ক্ষমতা এবং আর্দ্রতার প্রয়োজন না হওয়া",
+            "B. ফ্রিজারে কম তাপমাত্রা সহ্য করার ক্ষমতা",
+            "C. খাবারের পৃষ্ঠে সরাসরি বৃদ্ধি এবং বংশবৃদ্ধি করার ক্ষমতা",
+            "D. খাদ্যে কোনো বিষাক্ত পদার্থ তৈরি না করেই বংশবৃদ্ধি করার ক্ষমতা"
+        ],
+        "questionAr": "ما الذي يميز العفن (الفطريات) في الطعام عن الملوثات الميكروبية الأخرى؟",
+        "optionsAr": [
+            "A. قدرتها على البقاء في البيئات الجافة وعدم حاجتها للرطوبة",
+            "B. قدرتها على تحمل درجات الحرارة المنخفضة في المجمدة (الفريزر)",
+            "C. قدرتها على النمو والتكاثر مباشرة على سطح الطعام",
+            "D. قدرتها على التكاثر دون إنتاج أي سموم في الطعام"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Storing cooked rice at room temperature is considered less dangerous than storing cooked meat under the same conditions because rice is a plant-based food.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "questionBn": "ঘরের তাপমাত্রায় রান্না করা ভাত সংরক্ষণ করা একই পরিস্থিতিতে রান্না করা মাংস সংরক্ষণের চেয়ে কম বিপজ্জনক বলে মনে করা হয় কারণ ভাত একটি উদ্ভিদ-ভিত্তিক খাদ্য।",
+        "optionsBn": [
+            "সত্য",
+            "মিথ্যা"
+        ],
+        "questionAr": "يعد تخزين الأرز المطبوخ في درجة حرارة الغرفة أقل خطورة من تخزين اللحم المطبوخ تحت نفس الظروف لأن الأرز غذاء نباتي.",
+        "optionsAr": [
+            "صحيح",
+            "خطأ"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of these foods requires the highest level of time and temperature monitoring?",
+        "options": [
+            "True",
+            "False"
+        ],
+        "questionBn": "এর মধ্যে কোন খাবারের জন্য সর্বোচ্চ স্তরের সময় এবং তাপমাত্রা পর্যবেক্ষণের প্রয়োজন হয়?",
+        "optionsBn": [
+            "সত্য",
+            "মিথ্যা"
+        ],
+        "questionAr": "أي من هذه الأطعمة يتطلب أعلى مستوى من مراقبة الوقت ودرجة الحرارة؟",
+        "optionsAr": [
+            "صحيح",
+            "خطأ"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "In a food preparation area, which of the following conditions represent multiple contamination risks (chemical and physical)? (Select all that apply)",
+        "options": [
+            "A. Scratched containers used for storing acidic food",
+            "B. Wooden utensils used in food preparation",
+            "C. Storing chemicals above the food preparation area",
+            "D. Using glass pieces in the food preparation area",
+            "E. Labels on plastic containers"
+        ],
+        "questionBn": "খাবার প্রস্তুতকরণ এলাকায় নিচের কোন পরিস্থিতি একাধিক দূষণের ঝুঁকি (রাসায়নিক এবং শারীরিক) উপস্থাপন করে? (প্রযোজ্য সবগুলি নির্বাচন করুন)",
+        "optionsBn": [
+            "A. অম্লীয়/এসিডিক খাদ্য সংরক্ষণের জন্য ব্যবহৃত আঁচড় লাগা পাত্র",
+            "B. খাদ্য প্রস্তুতিতে ব্যবহৃত কাঠের পাত্র/সরঞ্জাম",
+            "C. খাদ্য প্রস্তুতি এলাকার উপরে রাসায়নিক সংরক্ষণ করা",
+            "D. খাদ্য প্রস্তুতি এলাকায় কাঁচের টুকরো ব্যবহার করা",
+            "E. প্লাস্টিকের পাত্রের লেবেল"
+        ],
+        "questionAr": "في منطقة إعداد الطعام، أي من الظروف التالية تمثل مخاطر تلوث متعددة (كيميائية وفيزيائية)؟ (حدد كل ما ينطبق)",
+        "optionsAr": [
+            "A. الحاويات المخدوشة المستخدمة لتخزين الأطعمة الحمضية",
+            "B. الأواني الخشبية المستخدمة في إعداد الطعام",
+            "C. تخزين المواد الكيميائية فوق منطقة إعداد الطعام",
+            "D. استخدام قطع زجاجية في منطقة إعداد الطعام",
+            "E. الملصقات الموجودة على الحاويات البلاستيكية"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In a food preparation area, which of the following conditions combines both chemical and physical contamination risks?",
+        "options": [
+            "A. Presence of broken plastic containers in the storage area",
+            "B. Using tightly closed covers for food containers",
+            "C. Using scratched metal containers for storing acidic food items",
+            "D. Storing food items at inappropriate temperatures"
+        ],
+        "questionBn": "খাদ্য প্রস্তুতি এলাকায় নিচের কোন পরিস্থিতি রাসায়নিক এবং শারীরিক উভয় দূষণের ঝুঁকিকে একত্রিত করে?",
+        "optionsBn": [
+            "A. স্টোরেজ এলাকায় ভাঙা প্লাস্টিকের পাত্রের উপস্থিতি",
+            "B. খাবারের পাত্রের জন্য শক্তভাবে বন্ধ কভার ব্যবহার করা",
+            "C. অম্লীয় খাদ্যের উপাদান সংরক্ষণের জন্য আঁচড় লাগা ধাতব পাত্র ব্যবহার করা",
+            "D. অনুচিত তাপমাত্রায় খাদ্য উপাদান সংরক্ষণ করা"
+        ],
+        "questionAr": "في منطقة إعداد الطعام، أي من الظروف التالية تجمع بين مخاطر التلوث الكيميائي والفيزيائي؟",
+        "optionsAr": [
+            "A. وجود حاويات بلاستيكية مكسورة في منطقة التخزين",
+            "B. استخدام أغطية محكمة الإغلاق لحاويات الطعام",
+            "C. استخدام حاويات معدنية مخدوشة لتخزين الأطعمة الحمضية",
+            "D. تخزين الأطعمة في درجات حرارة غير مناسبة"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Chemical contamination of food can cause chronic health problems even if consumed in small amounts over a long period.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "questionBn": "খাদ্যের রাসায়নিক দূষণ দীর্ঘ সময় ধরে অল্প পরিমাণে গ্রহণ করা হলেও দীর্ঘস্থায়ী স্বাস্থ্য সমস্যার কারণ হতে পারে।",
+        "optionsBn": [
+            "সত্য",
+            "মিথ্যা"
+        ],
+        "questionAr": "يمكن أن يسبب التلوث الكيميائي للطعام مشاكل صحية مزمنة حتى لو تم تناوله بكميات صغيرة على مدى فترة طويلة.",
+        "optionsAr": [
+            "صحيح",
+            "خطأ"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "When you notice a bad smell and color change in food in your work area, what should you do first?",
+        "options": [
+            "A. Continue using the food after removing the altered parts",
+            "B. Try to hide the smell using an air freshener",
+            "C. Immediately inform your direct supervisor and stop using the food",
+            "D. Wait until the end of your work shift and then report the problem"
+        ],
+        "questionBn": "আপনার কাজের এলাকায় খাবারের দুর্গন্ধ এবং রঙ পরিবর্তন লক্ষ করলে প্রথমে আপনার কী করা উচিত?",
+        "optionsBn": [
+            "A. পরিবর্তিত অংশ সরিয়ে নেওয়ার পর খাবার ব্যবহার চালিয়ে যাওয়া",
+            "B. এয়ার ফ্রেশনার ব্যবহার করে গন্ধ লুকানোর চেষ্টা করা",
+            "C. অবিলম্বে আপনার প্রত্যক্ষ সুপারভাইজারকে জানানো এবং খাবার ব্যবহার বন্ধ করা",
+            "D. আপনার কাজের শিফট শেষ হওয়া পর্যন্ত অপেক্ষা করা এবং তারপর সমস্যাটি জানানো"
+        ],
+        "questionAr": "عندما تلاحظ رائحة كريهة وتغيراً في لون الطعام في منطقة عملك، ما الذي يجب عليك فعله أولاً؟",
+        "optionsAr": [
+            "A. الاستمرار في استخدام الطعام بعد إزالة الأجزاء المتغيرة",
+            "B. محاولة إخفاء الرائحة باستخدام معطر الجو",
+            "C. إبلاغ مشرفك المباشر فوراً والتوقف عن استخدام الطعام",
+            "D. الانتظار حتى نهاية وردية عملك ثم الإبلاغ عن المشكلة"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Food spoilage can occur even at low temperatures, especially in foods that are exposed to freezer burn.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "questionBn": "কম তাপমাত্রায়ও খাবারের অপচয় বা পচন ঘটতে পারে, বিশেষ করে যেসব খাবার ফ্রিজার বার্নের শিকার হয়।",
+        "optionsBn": [
+            "সত্য",
+            "মিথ্যা"
+        ],
+        "questionAr": "يمكن أن يحدث تلف الطعام حتى في درجات الحرارة المنخفضة، خاصة في الأطعمة المعرضة لحروق التجميد (Freezer burn).",
+        "optionsAr": [
+            "صحيح",
+            "خطأ"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "When working on preparing various foods (salads, cooked meat, desserts), what are the correct procedures to prevent bacterial growth and food poisoning? (Select all that apply)",
+        "options": [
+            "A. Cooling hot food within two hours",
+            "B. Leaving food at room temperature to acclimatize",
+            "C. Preparing large quantities at once",
+            "D. Keeping cold food at 5 degrees Celsius or below",
+            "E. Keeping hot food at 63 degrees Celsius or above"
+        ],
+        "questionBn": "বিভিন্ন খাবার (স্যালাড, রান্না করা মাংস, ডেজার্ট) তৈরির কাজ করার সময় ব্যাকটেরিয়ার বৃদ্ধি এবং ফুড পয়জনিং রোধ করার সঠিক পদ্ধতিগুলো কী কী? (প্রযোজ্য সবগুলি নির্বাচন করুন)",
+        "optionsBn": [
+            "A. দুই ঘণ্টার মধ্যে গরম খাবার ঠান্ডা করা",
+            "B. খাবার ঘরের তাপমাত্রায় রেখে দেওয়া",
+            "C. একসাথে বিপুল পরিমাণ তৈরি করা",
+            "D. ঠান্ডা খাবার ৫ ডিগ্রি সেলসিয়াস বা তার নিচে রাখা",
+            "E. গরম খাবার ৬৩ ডিগ্রি সেলসিয়াস বা তার উপরে রাখা"
+        ],
+        "questionAr": "عند العمل على إعداد أطعمة متنوعة (سلطات، لحوم مطبوخة، حلويات)، ما هي الإجراءات الصحيحة لمنع نمو البكتيريا والتسمم الغذائي؟ (حدد كل ما ينطبق)",
+        "optionsAr": [
+            "A. تبريد الطعام الساخن خلال ساعتين",
+            "B. ترك الطعام في درجة حرارة الغرفة للتأقلم",
+            "C. إعداد كميات كبيرة دفعة واحدة",
+            "D. حفظ الطعام البارد في درجة حرارة 5 درجات مئوية أو أقل",
+            "E. حفظ الطعام الساخن في درجة حرارة 63 درجة مئوية أو أعلى"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Food poisoning is a disease caused by the multiplication of living organisms like bacteria and viruses inside the body of a person who consumes contaminated food.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "questionBn": "ফুড পয়জনিং হলো দূষিত খাবার গ্রহণকারী ব্যক্তির শরীরের ভেতরে ব্যাকটেরিয়া এবং ভাইরাসের মতো জীবন্ত অণুজীবের বংশবৃদ্ধির ফলে সৃষ্ট একটি রোগ।",
+        "optionsBn": [
+            "সত্য",
+            "মিথ্যা"
+        ],
+        "questionAr": "التسمم الغذائي هو مرض ينجم عن تكاثر الكائنات الحية مثل البكتيريا والفيروسات داخل جسم الشخص الذي يتناول طعاماً ملوثاً.",
+        "optionsAr": [
+            "صحيح",
+            "خطأ"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the most important procedure when preparing cooked meat to reduce the risk of Clostridium perfringens bacteria?",
+        "options": [
+            "A. Cooking the meat to a temperature of 75 degrees Celsius or higher",
+            "B. Keeping the cooked meat warm at 63 degrees Celsius or higher",
+            "C. Leaving the meat at room temperature after cooking",
+            "D. Cooling the meat slowly to prevent color changes"
+        ],
+        "questionBn": "ক্লস্ট্রিডিয়াম পারফ্রিঞ্জেন্স ব্যাকটেরিয়ার ঝুঁকি কমাতে রান্না করা মাংস প্রস্তুত করার সময় সবচেয়ে গুরুত্বপূর্ণ পদ্ধতি কোনটি?",
+        "optionsBn": [
+            "A. মাংস ৭৫ ডিগ্রি সেলসিয়াস বা তার বেশি তাপমাত্রায় রান্না করা",
+            "B. রান্না করা মাংস ৬৩ ডিগ্রি সেলসিয়াস বা তার বেশি তাপমাত্রায় গরম রাখা",
+            "C. রান্নার পর মাংস ঘরের তাপমাত্রায় রেখে দেওয়া",
+            "D. রঙ পরিবর্তন রোধ করতে মাংস ধীরে ধীরে ঠান্ডা করা"
+        ],
+        "questionAr": "ما هو أهم إجراء عند إعداد اللحوم المطبوخة للحد من خطر بكتيريا الكلوستريديوم بيرفرنجنز (Clostridium perfringens)؟",
+        "optionsAr": [
+            "A. طهي اللحم حتى درجة حرارة 75 درجة مئوية أو أعلى",
+            "B. إبقاء اللحم المطبوخ دافئاً عند 63 درجة مئوية أو أعلى",
+            "C. ترك اللحم في درجة حرارة الغرفة بعد الطهي",
+            "D. تبريد اللحم ببطء لمنع تغير اللون"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "During work, you see your colleague washing food in the handwashing sink. What should you do?",
+        "options": [
+            "A. Advise them to finish washing the food quickly",
+            "B. Ignore the situation and focus only on your own work",
+            "C. Tell them to wait until the food sink is available",
+            "D. Immediately report the situation to the direct supervisor"
+        ],
+        "questionBn": "কাজের সময় আপনি আপনার সহকর্মীকে হাত ধোয়ার সিঙ্কে খাবার ধুতে দেখেন। আপনার কী করা উচিত?",
+        "optionsBn": [
+            "A. তাকে দ্রুত খাবার ধোয়া শেষ করার পরামর্শ দেওয়া",
+            "B. পরিস্থিতি উপেক্ষা করা এবং শুধুমাত্র আপনার নিজের কাজে মনোযোগ দেওয়া",
+            "C. তাকে ফুড সিঙ্ক খালি হওয়া পর্যন্ত অপেক্ষা করতে বলা",
+            "D. অবিলম্বে প্রত্যক্ষ সুপারভাইজারকে বিষয়টি জানানো"
+        ],
+        "questionAr": "أثناء العمل، رأيت زميلك يغسل الطعام في مغسلة غسيل اليدين. ماذا عليك أن تفعل؟",
+        "optionsAr": [
+            "A. نصحه بإنهاء غسل الطعام بسرعة",
+            "B. تجاهل الموقف والتركيز على عملك فقط",
+            "C. إخباره بالانتظار حتى تتوفر مغسلة الطعام",
+            "D. الإبلاغ عن الموقف فوراً للمشرف المباشر"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Look at the picture carefully, does it express correct or incorrect behavior?",
+        "options": [
+            "True",
+            "False"
+        ],
+        "questionBn": "ছবিটি সতর্কতার সাথে দেখুন, এটি কি সঠিক নাকি ভুল আচরণ প্রকাশ করে?",
+        "optionsBn": [
+            "সত্য",
+            "মিথ্যা"
+        ],
+        "questionAr": "انظر إلى الصورة بعناية، هل تعبر عن سلوك صحيح أم خاطئ؟",
+        "optionsAr": [
+            "صحيح",
+            "خطأ"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "After storing food for an hour, you notice that the refrigerated food is kept at an inappropriate temperature. What are the correct steps to follow in this case?",
+        "options": [
+            "A. Adjust the refrigerator temperature and leave the food inside",
+            "B. Record the temperature and monitor the situation for an hour",
+            "C. Immediately transfer the food to a refrigerator with an appropriate temperature",
+            "D. Conduct a sensory test of the food to ensure its suitability for use"
+        ],
+        "questionBn": "এক ঘণ্টা খাবার সংরক্ষণ করার পর আপনি লক্ষ করলেন যে রেফ্রিজারেটরের খাবার একটি অনুপযুক্ত তাপমাত্রায় রাখা হয়েছে। এই ক্ষেত্রে অনুসরণ করার সঠিক পদক্ষেপগুলি কী কী?",
+        "optionsBn": [
+            "A. রেফ্রিজারেটরের তাপমাত্রা সামঞ্জস্য করা এবং খাবার ভেতরে রেখে দেওয়া",
+            "B. তাপমাত্রা রেকর্ড করা এবং এক ঘণ্টার জন্য পরিস্থিতি পর্যবেক্ষণ করা",
+            "C. অবিলম্বে খাবারটিকে উপযুক্ত তাপমাত্রার একটি রেফ্রিজারেটরে স্থানান্তর করা",
+            "D. ব্যবহারের উপযুক্ততা নিশ্চিত করতে খাবারের একটি সংবেদনশীল পরীক্ষা (sensory test) পরিচালনা করা"
+        ],
+        "questionAr": "بعد تخزين الطعام لمدة ساعة، لاحظت أن الطعام المبرد يُحفظ في درجة حرارة غير مناسبة. ما هي الخطوات الصحيحة التي يجب اتباعها في هذه الحالة؟",
+        "optionsAr": [
+            "A. ضبط درجة حرارة الثلاجة وترك الطعام بداخلها",
+            "B. تسجيل درجة الحرارة ومراقبة الوضع لمدة ساعة",
+            "C. نقل الطعام فوراً إلى ثلاجة ذات درجة حرارة مناسبة",
+            "D. إجراء اختبار حسي للطعام للتأكد من صلاحيته للاستخدام"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "If it is found that the refrigerator temperature has exceeded 10 degrees Celsius, the stored food inside can continue to be used if there are no signs of spoilage.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "questionBn": "যদি দেখা যায় রেফ্রিজারেটরের তাপমাত্রা ১০ ডিগ্রি সেলসিয়াস অতিক্রম করেছে, তবে পচনের কোনো লক্ষণ না থাকলে ভেতরে সংরক্ষিত খাবার ব্যবহার চালিয়ে যাওয়া যেতে পারে।",
+        "optionsBn": [
+            "সত্য",
+            "মিথ্যা"
+        ],
+        "questionAr": "إذا تبين أن درجة حرارة الثلاجة تجاوزت 10 درجات مئوية، يمكن الاستمرار في استخدام الطعام المخزن بداخلها إذا لم تظهر عليه علامات التلف.",
+        "optionsAr": [
+            "صحيح",
+            "خطأ"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "When storing different types of food in the refrigerator, what are the correct storage practices? Select all that apply.",
+        "options": [
+            "A. Check if the refrigerator temperature is between 0-4 degrees Celsius",
+            "B. Stack food items on top of each other to save space",
+            "C. Store raw meat at the bottom and ready-to-eat food items at the top",
+            "D. Tightly cover all food items to prevent contamination",
+            "E. Leave enough space between containers to allow air circulation"
+        ],
+        "questionBn": "রেফ্রিজারেটরে বিভিন্ন ধরনের খাবার সংরক্ষণ করার সময় সঠিক সংরক্ষণের নিয়মগুলো কী কী? প্রযোজ্য সবগুলি নির্বাচন করুন।",
+        "optionsBn": [
+            "A. রেফ্রিজারেটরের তাপমাত্রা ০-৪ ডিগ্রি সেলসিয়াসের মধ্যে আছে কিনা তা পরীক্ষা করা",
+            "B. জায়গা বাঁচাতে খাবার একে অপরের ওপর স্তূপ করে রাখা",
+            "C. কাঁচা মাংস একদম নিচে এবং খাওয়ার উপযোগী খাবার উপরে সংরক্ষণ করা",
+            "D. দূষণ রোধ করতে সমস্ত খাদ্য সামগ্রী শক্তভাবে ঢেকে রাখা",
+            "E. বাতাস চলাচলের জন্য পাত্রের মধ্যে পর্যাপ্ত জায়গা রাখা"
+        ],
+        "questionAr": "عند تخزين أنواع مختلفة من الطعام في الثلاجة، ما هي ممارسات التخزين الصحيحة؟ حدد كل ما ينطبق.",
+        "optionsAr": [
+            "A. التحقق مما إذا كانت درجة حرارة الثلاجة بين 0-4 درجات مئوية",
+            "B. تكديس الأطعمة فوق بعضها البعض لتوفير المساحة",
+            "C. تخزين اللحوم النيئة في الأسفل والأطعمة الجاهزة للأكل في الأعلى",
+            "D. تغطية جميع الأطعمة بإحكام لمنع التلوث",
+            "E. ترك مسافة كافية بين الحاويات للسماح بتدوير الهواء"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What should you do if you see liquid dripping from thawing frozen food in the refrigerator?",
+        "options": [
+            "A. Speed up the thawing process with hot water",
+            "B. Ensure the drip tray is changed when full",
+            "C. Let the liquid accumulate in the drip tray",
+            "D. Move the food to room temperature"
+        ],
+        "questionBn": "রেফ্রিজারেটরে জমে থাকা বরফ গলানো খাবারের তরল ঝরতে দেখলে আপনার কী করা উচিত?",
+        "optionsBn": [
+            "A. গরম জল দিয়ে বরফ গলানোর প্রক্রিয়া দ্রুত করা",
+            "B. ড্রিপ ট্রে পূর্ণ হলে তা পরিবর্তন করা নিশ্চিত করা",
+            "C. ড্রিপ ট্রেইয়ে তরল জমতে দেওয়া",
+            "D. খাবার ঘরের তাপমাত্রায় নিয়ে আসা"
+        ],
+        "questionAr": "ماذا يجب أن تفعل إذا رأيت سائلاً يتساقط من طعام مجمد يتم تذويبه في الثلاجة؟",
+        "optionsAr": [
+            "A. تسريع عملية التذويب بالماء الساخن",
+            "B. التأكد من تغيير صينية التقطير عندما تمتلىء",
+            "C. ترك السائل يتراكم في صينية التقطير",
+            "D. نقل الطعام إلى درجة حرارة الغرفة"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "When food residue sticks to dishes/utensils, you can increase the concentration of the sanitizer to compensate for the lack of cleaning.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "questionBn": "যখন থালাবাসনে খাবারের অবশিষ্টাংশ লেগে থাকে, তখন আপনি পরিষ্কারের ঘাটতি মেটাতে স্যানিটাইজারের ঘনত্ব বাড়াতে পারেন।",
+        "optionsBn": [
+            "সত্য",
+            "মিথ্যা"
+        ],
+        "questionAr": "عندما تلتصق بقايا الطعام بالأطباق/الأواني، يمكنك زيادة تركيز المطهر للتعويض عن نقص التنظيف.",
+        "optionsAr": [
+            "صحيح",
+            "خطأ"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Put the items in order: Arrange the steps for dealing with the presence of frost/ice stains on frozen food items:",
+        "options": [
+            "A. Place the containers in designated areas",
+            "B. Check the integrity of the frozen food packaging",
+            "C. Separate the food items that have ice/frost stains",
+            "D. Rewrap the food items tightly",
+            "E. Check the freezer temperature"
+        ],
+        "questionBn": "আইটেমগুলি ক্রমানুসারে সাজান: হিমায়িত খাদ্য সামগ্রীতে বরফের দাগের উপস্থিতির সাথে মোকাবিলা করার ধাপগুলি সাজান:",
+        "optionsBn": [
+            "A. নির্দিষ্ট এলাকায় পাত্রগুলি রাখুন",
+            "B. হিমায়িত খাদ্যের প্যাকেজিংয়ের সঠিকতা পরীক্ষা করুন",
+            "C. বরফের দাগ থাকা খাদ্য সামগ্রীগুলি আলাদা করুন",
+            "D. খাদ্য সামগ্রীগুলি আবার শক্তভাবে মুড়ে দিন",
+            "E. ফ্রিজারের তাপমাত্রা পরীক্ষা করুন"
+        ],
+        "questionAr": "رتب العناصر: رتب خطوات التعامل مع وجود بقع الصقيع/الجليد على المنتجات الغذائية المجمدة:",
+        "optionsAr": [
+            "A. وضع الحاويات في المناطق المخصصة",
+            "B. التحقق من سلامة تغليف الطعام المجمد",
+            "C. فصل المنتجات الغذائية التي تحتوي على بقع ثلج/صقيع",
+            "D. إعادة تغليف الأطعمة بإحكام",
+            "E. التحقق من درجة حرارة المجمدة (الفريزر)"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "In a situation that combines a tripping hazard and a chemical spill, what are the correct priorities for dealing with the situation? Select all that apply.",
+        "options": [
+            "A. Trying to deal with the problem personally",
+            "B. Cleaning up the spill according to approved procedures",
+            "C. Placing warning signs around the hazardous area",
+            "D. Reviewing the chemical's safety data sheet",
+            "E. Informing the supervisor about the situation at the end of the day"
+        ],
+        "questionBn": "হোঁচট খাওয়ার বিপদ এবং রাসায়নিক ছিটকে পড়ার ঘটনা একত্রিত হলে, পরিস্থিতির সাথে মোকাবিলা করার সঠিক অগ্রাধিকারগুলি কী কী? প্রযোজ্য সবগুলি নির্বাচন করুন।",
+        "optionsBn": [
+            "A. ব্যক্তিগতভাবে সমস্যাটি সামলানোর চেষ্টা করা",
+            "B. অনুমোদিত পদ্ধতি অনুযায়ী ছিটকে পড়া অংশ পরিষ্কার করা",
+            "C. বিপজ্জনক এলাকার চারপাশে সতর্কতামূলক চিহ্ন রাখা",
+            "D. রাসায়নিকের সেফটি ডেটা শিট পর্যালোচনা করা",
+            "E. দিন শেষে সুপারভাইজারকে পরিস্থিতি সম্পর্কে জানানো"
+        ],
+        "questionAr": "في حالة تجمع بين خطر التعثر وانسكاب مواد كيميائية، ما هي الأولويات الصحيحة للتعامل مع الموقف؟ حدد كل ما ينطبق.",
+        "optionsAr": [
+            "A. محاولة التعامل مع المشكلة شخصياً",
+            "B. تنظيف الانسكاب وفقاً للإجراءات المعتمدة",
+            "C. وضع علامات تحذيرية حول المنطقة الخطرة",
+            "D. مراجعة صحيفة بيانات سلامة المادة الكيميائية (MSDS)",
+            "E. إبلاغ المشرف بالوضع في نهاية اليوم"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "If a coworker receives an electric shock while connected to a device, what should be the first step?",
+        "options": [
+            "A. Pull the injured person away from the device",
+            "B. Disconnect the electrical power from the work area",
+            "C. Sprinkle water to reduce the shock",
+            "D. Call an ambulance immediately"
+        ],
+        "questionBn": "যদি কোনো সহকর্মী একটি ডিভাইসের সাথে সংযুক্ত থাকা অবস্থায় বৈদ্যুতিক শক পান, তবে প্রথম পদক্ষেপ কী হওয়া উচিত?",
+        "optionsBn": [
+            "A. আহত ব্যক্তিকে ডিভাইস থেকে দূরে টেনে আনা",
+            "B. কর্মক্ষেত্র থেকে বিদ্যুৎ সংযোগ বিচ্ছিন্ন করা",
+            "C. শক কমাতে জল ছেটানো",
+            "D. অবিলম্বে অ্যাম্বুলেন্স ডাকা"
+        ],
+        "questionAr": "إذا تعرض زميل لبلطة/صدمة كهربائية أثناء اتصاله بجهاز، فما هي الخطوة الأولى؟",
+        "optionsAr": [
+            "A. سحب الشخص المصاب بعيداً عن الجهاز",
+            "B. فصل التيار الكهربائي عن منطقة العمل",
+            "C. رش الماء لتقليل الصدمة",
+            "D. الاتصال بالإسعاف فوراً"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "When both eyes and skin are exposed to a hazardous chemical, you should start washing the eyes first, even if the skin burns are severe.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "questionBn": "যখন চোখ এবং ত্বক উভয়ই একটি বিপজ্জনক রাসায়নিকের সংস্পর্শে আসে, তখন ত্বকের পোড়া তীব্র হলেও আপনার প্রথমে চোখ ধোয়া শুরু করা উচিত।",
+        "optionsBn": [
+            "সত্য",
+            "মিথ্যা"
+        ],
+        "questionAr": "عند تعرض العينين والجلد لمادة كيميائية خطرة، يجب أن تبدأ بغسل العينين أولاً، حتى لو كانت حروق الجلد شديدة.",
+        "optionsAr": [
+            "صحيح",
+            "خطأ"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Put the items in order: Arrange the following steps if a small cut occurs while cutting:",
+        "options": [
+            "A. Inform the supervisor about the incident",
+            "B. Stop working immediately",
+            "C. Wash the wound with soap and water",
+            "D. Dispose of contaminated food",
+            "E. Cover the wound with a waterproof bandage"
+        ],
+        "questionBn": "আইটেমগুলি ক্রমানুসারে সাজান: কাটার সময় একটি ছোট ক্ষত/কেটে গেলে নিচের ধাপগুলি সাজান:",
+        "optionsBn": [
+            "A. ঘটনাটি সম্পর্কে সুপারভাইজারকে জানান",
+            "B. অবিলম্বে কাজ বন্ধ করুন",
+            "C. সাবান এবং জল দিয়ে ক্ষতটি ধোয়ন",
+            "D. দূষিত খাবার ফেলে দিন",
+            "E. ওয়াটারপ্রুফ ব্যা্যান্ডেজ দিয়ে ক্ষতটি ঢেকে দিন"
+        ],
+        "questionAr": "رتب العناصر: رتب الخطوات التالية في حالة حدوث جرح صغير أثناء التقطيع:",
+        "optionsAr": [
+            "A. إبلاغ المشرف بالحادث",
+            "B. التوقف عن العمل فوراً",
+            "C. غسل الجرح بالماء والصابون",
+            "D. التخلص من الطعام الملوث",
+            "E. تغطية الجرح بضمادة مقاومة للماء"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Choose the best answer based on the provided images. What is the most appropriate equipment to protect the lower body from cuts?",
+        "options": [
+            "Metal apron",
+            "Gloves",
+            "Slip-resistant shoes",
+            "Heat-resistant gloves"
+        ],
+        "questionBn": "প্রদত্ত ছবিগুলির ওপর ভিত্তি করে সেরা উত্তরটি বেছে নিন। কাটার হাত থেকে শরীরের নিচের অংশকে রক্ষা করার জন্য সবচেয়ে উপযুক্ত সরঞ্জাম কোনটি?",
+        "optionsBn": [
+            "মেটাল অ্যাপ্রন",
+            "গ্লাভস",
+            "স্লিপ-প্রতিরোধী জুতো",
+            "তাপ-প্রতিরোধী গ্লাভস"
+        ],
+        "questionAr": "اختر الإجابة الأفضل بناءً على الصور المرفقة. ما هي المعدات الأكثر ملاءمة لحماية الجزء السفلي من الجسم من القطوع؟",
+        "optionsAr": [
+            "مئزر معدني (مريلة معدنية)",
+            "قفازات",
+            "أحذية مانعة للانزلاق",
+            "قفازات مقاومة للحرارة"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which of the following symbols is found on chemical products that contain alcohol and should be kept away from heat sources, such as some cleaners and alcohol sanitizers?",
+        "options": [
+            "True",
+            "False"
+        ],
+        "questionBn": "অ্যালকোহলযুক্ত রাসায়নিক পণ্যগুলিতে নিচের কোন প্রতীকটি পাওয়া যায় যা তাপের উৎস থেকে দূরে রাখা উচিত, যেমন কিছু ক্লিনার এবং অ্যালকোহল স্যানিটাইজার?",
+        "optionsBn": [
+            "সত্য",
+            "মিথ্যা"
+        ],
+        "questionAr": "أي من الرموز التالية يوجد على المنتجات الكيميائية التي تحتوي على الكحول ويجب إبعادها عن مصادر الحرارة، مثل بعض المنظفات ومطهرات الكحول؟",
+        "optionsAr": [
+            "صحيح",
+            "خطأ"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Health education includes training for both new and current workers.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "questionBn": "স্বাস্থ্য শিক্ষার মধ্যে নতুন এবং বর্তমান উভয় কর্মীদের প্রশিক্ষণ অন্তর্ভুক্ত।",
+        "optionsBn": [
+            "সত্য",
+            "মিথ্যা"
+        ],
+        "questionAr": "يشمل التثقيف الصحي تدريب كل من العمال الجدد والحياليين.",
+        "optionsAr": [
+            "صحيح",
+            "خطأ"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Self-health control is only the responsibility of supervisors.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "questionBn": "স্বয়ংক্রিয় স্বাস্থ্য নিয়ন্ত্রণ কেবল সুপারভাইজারদের দায়িত্ব।",
+        "optionsBn": [
+            "সত্য",
+            "মিথ্যা"
+        ],
+        "questionAr": "المراقبة الصحية الذاتية هي مسؤولية المشرفين فقط.",
+        "optionsAr": [
+            "صحيح",
+            "خطأ"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Health certificates are valid for two years.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "questionBn": "স্বাস্থ্য সনদের মেয়াদ দুই বছর।",
+        "optionsBn": [
+            "সত্য",
+            "মিথ্যা"
+        ],
+        "questionAr": "الشهادات الصحية صالحة لمدة سنتين.",
+        "optionsAr": [
+            "صحيح",
+            "خطأ"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the primary goal of health education for workers in food establishments?",
+        "options": [
+            "A. Improving productivity and increasing profits.",
+            "B. Raising personal hygiene standards only.",
+            "C. Ensuring the safety of food provided to consumers and protecting public health.",
+            "D. Improving the establishment's reputation without implementing specific measures."
+        ],
+        "questionBn": "খাদ্য প্রতিষ্ঠানের কর্মীদের স্বাস্থ্য শিক্ষার মূল লক্ষ্য কী?",
+        "optionsBn": [
+            "A. উৎপাদনশীলতা উন্নত করা এবং মুনাফা বৃদ্ধি করা।",
+            "B. কেবল ব্যক্তিগত স্বাস্থ্যবিধির মান বাড়ানো।",
+            "C. ভোক্তাদের সরবরাহ করা খাবারের নিরাপত্তা নিশ্চিত করা এবং জনস্বাস্থ্য রক্ষা করা।",
+            "D. সুনির্দিষ্ট ব্যবস্থা গ্রহণ না করেই প্রতিষ্ঠানের সুনাম বৃদ্ধি করা।"
+        ],
+        "questionAr": "ما هو الهدف الرئيسي من التثقيف الصحي للعاملين في المنشآت الغذائية؟",
+        "optionsAr": [
+            "A. تحسين الإنتاجية وزيادة الأرباح.",
+            "B. رفع معايير النظافة الشخصية فقط.",
+            "C. ضمان سلامة الغذاء المقدم للمستهلكين وحماية الصحة العامة.",
+            "D. تحسين سمعة المنشأة دون تطبيق إجراءات محددة."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Who are food handlers?",
+        "options": [
+            "A. Only the people who prepare the food.",
+            "B. All workers who directly or indirectly handle food and its equipment.",
+            "C. Only the managers of the establishment because they supervise.",
+            "D. Only the cleaning staff of the establishment."
+        ],
+        "questionBn": "ফুড হ্যান্ডলার (খাদ্য নাড়াচাড়াকারী) কারা?",
+        "optionsBn": [
+            "A. কেবল তারাই যারা খাবার তৈরি করে।",
+            "B. সমস্ত কর্মী যারা প্রত্যক্ষ বা পরোক্ষভাবে খাদ্য এবং এর সরঞ্জাম নাড়াচাড়া করে।",
+            "C. কেবল প্রতিষ্ঠানের ম্যানেজাররা কারণ তারা তদারকি করেন।",
+            "D. কেবল প্রতিষ্ঠানের পরিচ্ছন্নতা কর্মীরা।"
+        ],
+        "questionAr": "من هم متداولو الغذاء؟",
+        "optionsAr": [
+            "A. الأشخاص الذين يعدون الطعام فقط.",
+            "B. جميع العمال الذين يتعاملون بشكل مباشر أو غير مباشر مع الطعام ومعداته.",
+            "C. مدراء المنشأة فقط لأنهم يشرفون.",
+            "D. عمال النظافة في المنشأة فقط."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What should you do if you experience symptoms of an infectious disease while working?",
+        "options": [
+            "A. Continue working while wearing only a mask.",
+            "B. Inform your supervisor and stop handling food according to health and safety guidelines.",
+            "C. Wash your hands thoroughly and continue working normally.",
+            "D. Avoid talking to coworkers without taking any additional steps."
+        ],
+        "questionBn": "কাজের সময় সংক্রামক রোগের লক্ষণ দেখা দিলে আপনার কী করা উচিত?",
+        "optionsBn": [
+            "A. কেবল মাস্ক পরে কাজ চালিয়ে যাওয়া।",
+            "B. আপনার সুপারভাইজারকে জানানো এবং স্বাস্থ্য ও নিরাপত্তা নির্দেশিকা অনুযায়ী খাবার নাড়াচাড়া বন্ধ করা।",
+            "C. আপনার হাত ভালোভাবে ধুয়ে স্বাভাবিকভাবে কাজ চালিয়ে যাওয়া।",
+            "D. অতিরিক্ত কোনো পদক্ষেপ না নিয়ে সহকর্মীদের সাথে কথা বলা এড়িয়ে চলা।"
+        ],
+        "questionAr": "ماذا يجب أن تفعل إذا ظهرت عليك أعراض مرض معدٍ أثناء العمل؟",
+        "optionsAr": [
+            "A. الاستمرار في العمل مع ارتداء كمامة فقط.",
+            "B. إبلاغ مشرفك والتوقف عن تداول الطعام وفقاً لإرشادات الصحة والسلامة.",
+            "C. غسل يديك جيداً والاستمرار في العمل بشكل طبيعي.",
+            "D. تجنب التحدث مع الزملاء دون اتخاذ أي خطوات إضافية."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Food safety is only important for large restaurants.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "questionBn": "খাদ্য নিরাপত্তা কেবল বড় রেস্তোরাঁর জন্য গুরুত্বপূর্ণ।",
+        "optionsBn": [
+            "সত্য",
+            "মিথ্যা"
+        ],
+        "questionAr": "سلامة الغذاء مهمة فقط للمطاعم الكبيرة.",
+        "optionsAr": [
+            "صحيح",
+            "خطأ"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Food can be contaminated at any stage of the food chain.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "questionBn": "খাদ্য শৃঙ্খলের যেকোনো পর্যায়ে খাদ্য দূষিত হতে পারে।",
+        "optionsBn": [
+            "সত্য",
+            "মিথ্যা"
+        ],
+        "questionAr": "يمكن أن يتلوث الطعام في أي مرحلة من مراحل السلسلة الغذائية.",
+        "optionsAr": [
+            "صحيح",
+            "خطأ"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Having a food safety system helps reduce food waste.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "questionBn": "একটি খাদ্য নিরাপত্তা ব্যবস্থা থাকলে তা খাদ্যের অপচয় কমাতে সাহায্য করে।",
+        "optionsBn": [
+            "সত্য",
+            "মিথ্যা"
+        ],
+        "questionAr": "وجود نظام لسلامة الغذاء يساعد في تقليل هدر الطعام.",
+        "optionsAr": [
+            "صحيح",
+            "خطأ"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What are the main types of food safety hazards?",
+        "options": [
+            "A. Microbial and chemical only.",
+            "B. Microbial, chemical, physical, and allergenic.",
+            "C. Chemical and physical only.",
+            "D. Microbial and physical only."
+        ],
+        "questionBn": "খাদ্য নিরাপত্তা ঝুঁকির প্রধান ধরনগুলি কী কী?",
+        "optionsBn": [
+            "A. কেবল অণুজীবীয় এবং রাসায়নিক।",
+            "B. অণুজীবীয়, রাসায়নিক, শারীরিক এবং অ্যালার্জেনিক।",
+            "C. কেবল রাসায়নিক এবং শারীরিক।",
+            "D. কেবল অণুজীবীয় এবং শারীরিক।"
+        ],
+        "questionAr": "ما هي الأنواع الرئيسية لمخاطر سلامة الغذاء؟",
+        "optionsAr": [
+            "A. ميكروبية وكيميائية فقط.",
+            "B. ميكروبية، وكيميائية، وفيزيائية، ومسببة للحساسية.",
+            "C. كيميائية وفيزيائية فقط.",
+            "D. ميكروبية وفيزيائية فقط."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following is an example of indirect (cross) contamination of food?",
+        "options": [
+            "A. An insect falling on the food.",
+            "B. Using an unclean knife to cut cooked food.",
+            "C. Touching food with dirty hands.",
+            "D. Storing food at an unsafe temperature."
+        ],
+        "questionBn": "নিচের কোনটি খাদ্যের পরোক্ষ (ক্রস) দূষণের উদাহরণ?",
+        "optionsBn": [
+            "A. খাবারের ওপর একটি পোকা পড়া।",
+            "B. রান্না করা খাবার কাটতে অপরিষ্কার ছুরি ব্যবহার করা।",
+            "C. নোংরা হাত দিয়ে খাবার স্পর্শ করা।",
+            "D. অনিরাপদ তাপমাত্রায় খাবার সংরক্ষণ করা।"
+        ],
+        "questionAr": "أي مما يلي يعد مثالاً على التلوث غير المباشر (المتقاطع) للطعام؟",
+        "optionsAr": [
+            "A. سقوط حشرة على الطعام.",
+            "B. استخدام سكين غير نظيف لتقطيع الطعام المطبوخ.",
+            "C. لمس الطعام بأيدٍ متسخة.",
+            "D. تخزين الطعام في درجة حرارة غير آمنة."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Bacteria can grow and multiply in frozen food.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "questionBn": "হিমায়িত খাদ্যে ব্যাকটেরিয়া বৃদ্ধি পেতে এবং বংশবৃদ্ধি করতে পারে।",
+        "optionsBn": [
+            "সত্য",
+            "মিথ্যা"
+        ],
+        "questionAr": "يمكن للبكتيريا أن تنمو وتتكاثر في الطعام المجمد.",
+        "optionsAr": [
+            "صحيح",
+            "خطأ"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Proper cooking kills most harmful bacteria.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "questionBn": "সঠিক রান্না বেশিরভাগ ক্ষতিকারক ব্যাকটেরিয়া মেরে ফেলে।",
+        "optionsBn": [
+            "সত্য",
+            "মিথ্যা"
+        ],
+        "questionAr": "الطهي الصحيح يقضي على معظم البكتيريا الضارة.",
+        "optionsAr": [
+            "صحيح",
+            "خطأ"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "All types of bacteria are harmful to humans.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "questionBn": "সব ধরণের ব্যাকটেরিয়া মানুষের জন্য ক্ষতিকর।",
+        "optionsBn": [
+            "সত্য",
+            "মিথ্যা"
+        ],
+        "questionAr": "جميع أنواع البكتيريا ضارة بالإنسان.",
+        "optionsAr": [
+            "صحيح",
+            "خطأ"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the \"danger zone\" for bacterial growth in food?",
+        "options": [
+            "A. Between 0 degrees Celsius and 10 degrees Celsius.",
+            "B. Between 5 degrees Celsius and 63 degrees Celsius.",
+            "C. Between 70 degrees Celsius and 100 degrees Celsius."
+        ],
+        "questionBn": "খাদ্যে ব্যাকটেরিয়ার বৃদ্ধির জন্য \"বিপজ্জনক অঞ্চল\" (Danger zone) কোনটি?",
+        "optionsBn": [
+            "A. ০ ডিগ্রি সেলসিয়াস থেকে ১০ ডিগ্রি সেলসিয়াসের মধ্যে।",
+            "B. ৫ ডিগ্রি সেলসিয়াস থেকে ৬৩ ডিগ্রি সেলসিয়াসের মধ্যে।",
+            "C. ৭০ ডিগ্রি সেলসিয়াস থেকে ১০০ ডিগ্রি সেলসিয়াসের মধ্যে।"
+        ],
+        "questionAr": "ما هي \"منطقة الخطر\" لنمو البكتيريا في الطعام؟",
+        "optionsAr": [
+            "A. بين 0 درجة مئوية و 10 درجات مئوية.",
+            "B. بين 5 درجات مئوية و 63 درجة مئوية.",
+            "C. بين 70 درجة مئوية و 100 درجة مئوية."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the best way to control bacterial growth in food?",
+        "options": [
+            "A. Adding salt to the food.",
+            "B. Controlling temperature and time.",
+            "C. Tightly sealing the food only."
+        ],
+        "questionBn": "খাদ্যে ব্যাকটেরিয়ার বৃদ্ধি নিয়ন্ত্রণের সেরা উপায় কোনটি?",
+        "optionsBn": [
+            "A. খাবারে লবণ যোগ করা।",
+            "B. তাপমাত্রা এবং সময় নিয়ন্ত্রণ করা।",
+            "C. কেবল খাবার শক্তভাবে আটকে রাখা।"
+        ],
+        "questionAr": "ما هي أفضل طريقة للتحكم في نمو البكتيريا في الطعام؟",
+        "optionsAr": [
+            "A. إضافة الملح إلى الطعام.",
+            "B. التحكم في درجة الحرارة والوقت.",
+            "C. إحكام إغلاق الطعام فقط."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Physical contaminants are usually visible to the naked eye.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "questionBn": "শারীরিক বা বস্তুগত দূষকগুলি সাধারণত খালি চোখে দেখা যায়।",
+        "optionsBn": [
+            "সত্য",
+            "মিথ্যা"
+        ],
+        "questionAr": "الملوثات الفيزيائية عادة ما تكون مرئية بالعين المجردة.",
+        "optionsAr": [
+            "صحيح",
+            "خطأ"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Food should be covered before applying pesticides.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "questionBn": "কীটনাশক প্রয়োগের আগে খাবার ঢেকে রাখা উচিত।",
+        "optionsBn": [
+            "সত্য",
+            "মিথ্যা"
+        ],
+        "questionAr": "يجب تغطية الطعام قبل رش المبيدات الحشرية.",
+        "optionsAr": [
+            "صحيح",
+            "خطأ"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Chemical contamination of food only occurs by accident.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "questionBn": "খাদ্যের রাসায়নিক দূষণ কেবল দুর্ঘটনাবশত ঘটে।",
+        "optionsBn": [
+            "সত্য",
+            "মিথ্যা"
+        ],
+        "questionAr": "التلوث الكيميائي للطعام يحدث فقط عن طريق الخطأ.",
+        "optionsAr": [
+            "صحيح",
+            "خطأ"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the correct step if damage is seen on equipment?",
+        "options": [
+            "A. Try to fix it yourself.",
+            "B. Report it immediately to the supervisor.",
+            "C. Continue using it until the end of the day."
+        ],
+        "questionBn": "সরঞ্জামে ক্ষতি দেখা গেলে সঠিক পদক্ষেপ কোনটি?",
+        "optionsBn": [
+            "A. নিজে ঠিক করার চেষ্টা করা।",
+            "B. অবিলম্বে সুপারভাইজারকে রিপোর্ট করা।",
+            "C. দিন শেষ না হওয়া পর্যন্ত এটি ব্যবহার চালিয়ে যাওয়া।"
+        ],
+        "questionAr": "ما هي الخطوة الصحيحة إذا لوحظ تلف في المعدات؟",
+        "optionsAr": [
+            "A. محاولة إصلاحها بنفسك.",
+            "B. الإبلاغ عنها فوراً للمشرف.",
+            "C. الاستمرار في استخدامها حتى نهاية اليوم."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following is a physical contaminant in food?",
+        "options": [
+            "A. Bacteria.",
+            "B. Cleaning agent.",
+            "C. Small pieces of glass."
+        ],
+        "questionBn": "নিচের কোনটি খাদ্যে শারীরিক বা বস্তুগত দূষক?",
+        "optionsBn": [
+            "A. ব্যাকটেরিয়া।",
+            "B. ক্লিনিং এজেন্ট বা পরিষ্কারক।",
+            "C. কাঁচের ছোট টুকরো।"
+        ],
+        "questionAr": "أي مما يلي يعد ملوثاً فيزيائياً في الطعام؟",
+        "optionsAr": [
+            "A. البكتيريا.",
+            "B. مواد التنظيف.",
+            "C. قطع صغيرة من الزجاج."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "How should chemicals be handled in a food establishment?",
+        "options": [
+            "A. Store them with food for easy access.",
+            "B. Transfer them from their original containers to smaller containers.",
+            "C. Store them away from food, in designated areas."
+        ],
+        "questionBn": "খাদ্য প্রতিষ্ঠানে রাসায়নিক কীভাবে নাড়াচাড়া করা উচিত?",
+        "optionsBn": [
+            "A. সহজে পাওয়ার জন্য খাবারের সাথে সংরক্ষণ করা।",
+            "B. তাদের মূল পাত্র থেকে ছোট পাত্রে স্থানান্তর করা।",
+            "C. খাবার থেকে দূরে, নির্দিষ্ট এলাকায় সংরক্ষণ করা।"
+        ],
+        "questionAr": "كيف ينبغي التعامل مع المواد الكيميائية في المنشأة الغذائية؟",
+        "optionsAr": [
+            "A. تخزينها مع الطعام لسهولة الوصول إليها.",
+            "B. نقلها من حاوياتها الأصلية إلى حاويات أصغر.",
+            "C. تخزينها بعيداً عن الطعام، في مناطق مخصصة."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "All types of food spoil at the same rate.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "questionBn": "সব ধরনের খাবার একই হারে নষ্ট হয়।",
+        "optionsBn": [
+            "সত্য",
+            "মিথ্যা"
+        ],
+        "questionAr": "جميع أنواع الطعام تتلف بنفس المعدل.",
+        "optionsAr": [
+            "صحيح",
+            "خطأ"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Spoiled food always has a bad smell.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "questionBn": "নষ্ট খাবারে সবসময় দুর্গন্ধ হয়।",
+        "optionsBn": [
+            "সত্য",
+            "মিথ্যা"
+        ],
+        "questionAr": "الطعام الفاسد دائمًا له رائحة كريهة.",
+        "optionsAr": [
+            "صحيح",
+            "خطأ"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Swollen metal cans can indicate food spoilage.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "questionBn": "ফোলা ধাতব ক্যান খাদ্যের পচন নির্দেশ করতে পারে।",
+        "optionsBn": [
+            "সত্য",
+            "মিথ্যা"
+        ],
+        "questionAr": "العلب المعدنية المنتفخة قد تشير إلى تلف الطعام.",
+        "optionsAr": [
+            "صحيح",
+            "خطأ"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the correct step if signs of spoilage are seen in food upon receipt?",
+        "options": [
+            "A. Accept the food and store it away from other food.",
+            "B. Reject the food.",
+            "C. Accept the food and use it quickly."
+        ],
+        "questionBn": "গ্রহণের সময় খাবারে পচনের লক্ষণ দেখা গেলে সঠিক পদক্ষেপ কী?",
+        "optionsBn": [
+            "A. খাবার গ্রহণ করা এবং অন্য খাবার থেকে দূরে সংরক্ষণ করা।",
+            "B. খাবার প্রত্যাখ্যান করা।",
+            "C. খাবার গ্রহণ করা এবং দ্রুত ব্যবহার করা।"
+        ],
+        "questionAr": "ما هي الخطوة الصحيحة إذا ظهرت علامات التلف على الطعام عند الاستلام؟",
+        "optionsAr": [
+            "A. قبول الطعام وتخزينه بعيداً عن الأطعمة الأخرى.",
+            "B. رفض الطعام.",
+            "C. قبول الطعام واستخدامه بسرعة."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is a sign of spoiled meat?",
+        "options": [
+            "A. Increase in size.",
+            "B. Color turning brown or green.",
+            "C. Presence of white spots."
+        ],
+        "questionBn": "নষ্ট মাংসের লক্ষণ কোনটি?",
+        "optionsBn": [
+            "A. আকারে বৃদ্ধি পাওয়া।",
+            "B. রঙ বাদামী বা সবুজ হয়ে যাওয়া।",
+            "C. সাদা দাগের উপস্থিতি।"
+        ],
+        "questionAr": "ما هي علامة اللحم الفاسد؟",
+        "optionsAr": [
+            "A. زيادة الحجم.",
+            "B. تحول اللون إلى البني أو الأخضر.",
+            "C. وجود بقع بيضاء."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following is considered highly perishable food?",
+        "options": [
+            "A. Milk",
+            "B. Potato",
+            "C. Wheat"
+        ],
+        "questionBn": "নিচের কোনটি দ্রুত পচনশীল খাদ্য হিসেবে বিবেচিত?",
+        "optionsBn": [
+            "A. দুধ",
+            "B. আলু",
+            "C. গম"
+        ],
+        "questionAr": "أي من الأطعمة التالية يعتبر شديد التلف بسرعة؟",
+        "optionsAr": [
+            "A. الحليب",
+            "B. البطاطس",
+            "C. القمح"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Children under 5 years of age are most vulnerable to food poisoning.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "questionBn": "৫ বছরের কম বয়সী শিশুরা ফুড পয়জনিংয়ের জন্য সবচেয়ে বেশি ঝুঁকিপূর্ণ।",
+        "optionsBn": [
+            "সত্য",
+            "মিথ্যা"
+        ],
+        "questionAr": "الأطفال دون سن 5 سنوات هم الأكثر عرضة للتسمم الغذائي.",
+        "optionsAr": [
+            "صحيح",
+            "خطأ"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "All food allergy symptoms appear immediately upon consuming the food.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "questionBn": "খাবার খাওয়ার সাথে সাথেই খাদ্যের সমস্ত অ্যালার্জির লক্ষণ প্রকাশ পায়।",
+        "optionsBn": [
+            "সত্য",
+            "মিথ্যা"
+        ],
+        "questionAr": "جميع أعراض حساسيات الطعام تظهر فور تناول الطعام.",
+        "optionsAr": [
+            "صحيح",
+            "خطأ"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Bacteria causing food poisoning are only found in raw food.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "questionBn": "ফুড পয়জনিং সৃষ্টিকারী ব্যাকটেরিয়া কেবল কাঁচা খাবারে পাওয়া যায়।",
+        "optionsBn": [
+            "সত্য",
+            "মিথ্যা"
+        ],
+        "questionAr": "البكتيريا المسببة للتسمم الغذائي توجد فقط في الطعام النيء.",
+        "optionsAr": [
+            "صحيح",
+            "خطأ"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following is one of the most allergenic foods?",
+        "options": [
+            "A. Apple.",
+            "B. Potato.",
+            "C. Peanuts."
+        ],
+        "questionBn": "নিচের কোনটি সবচেয়ে বেশি অ্যালার্জি সৃষ্টিকারী খাবারগুলির একটি?",
+        "optionsBn": [
+            "A. আপেল।",
+            "B. আলু।",
+            "C. চিনাবাদাম।"
+        ],
+        "questionAr": "أي مما يلي يعد من أكثر الأطعمة المسببة للحساسية؟",
+        "optionsAr": [
+            "A. التفاح.",
+            "B. البطاطس.",
+            "C. الفول السوداني."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the appropriate temperature for holding hot food to prevent bacterial growth?",
+        "options": [
+            "07. 99°C or above.",
+            "04. &O°C or above.",
+            "0C. 50°C or above."
+        ],
+        "questionBn": "ব্যাকটেরিয়ার বৃদ্ধি রোধ করতে গরম খাবার রাখার উপযুক্ত তাপমাত্রা কত?",
+        "optionsBn": [
+            "07. 99°C বা তার বেশি।",
+            "04. &O°C বা তার বেশি।",
+            "0C. 50°C বা তার বেশি।"
+        ],
+        "questionAr": "ما هي درجة الحرارة المناسبة لحفظ الطعام الساخن لمنع نمو البكتيريا؟",
+        "optionsAr": [
+            "07. 99°C أو أعلى.",
+            "04. &O°C أو أعلى.",
+            "0C. 50°C أو أعلى."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What should you do if you see swelling in a canned food container?",
+        "options": [
+            "A. Open it to check its contents.",
+            "B. Do not use it and report it immediately to the supervisor.",
+            "C. Put it in the refrigerator to reduce the swelling."
+        ],
+        "questionBn": "ক্যানজাত খাবারের পাত্রে ফোলাভাব দেখলে আপনার কী করা উচিত?",
+        "optionsBn": [
+            "A. এর ভেতরের জিনিসপত্র পরীক্ষা করতে এটি খুলুন।",
+            "B. এটি ব্যবহার করবেন না এবং অবিলম্বে সুপারভাইজারকে জানান।",
+            "C. ফোলাভাব কমাতে এটি ফ্রিজে রাখুন।"
+        ],
+        "questionAr": "ماذا يجب أن تفعل إذا رأيت انتفاخاً في علبة طعام محفوظة؟",
+        "optionsAr": [
+            "A. فتحها للتحقق من محتوياتها.",
+            "B. عدم استخدامها والإبلاغ عنها فوراً للمشرف.",
+            "C. وضعها في الثلاجة لتقليل الانتفاخ."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Wearing jewelry and watches is prohibited during food handling.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "questionBn": "খাদ্য নাড়াচাড়ার সময় গয়না এবং ঘড়ি পরা নিষিদ্ধ।",
+        "optionsBn": [
+            "সত্য",
+            "মিথ্যা"
+        ],
+        "questionAr": "يُمنع ارتداء المجوهرات والساعات أثناء تداول الطعام.",
+        "optionsAr": [
+            "صحيح",
+            "خطأ"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Hands should be washed before wearing gloves and after changing them.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "questionBn": "গ্লাভস পরার আগে এবং তা পরিবর্তনের পরে হাত ধোয়া উচিত।",
+        "optionsBn": [
+            "সত্য",
+            "মিথ্যা"
+        ],
+        "questionAr": "يجب غسل اليدين قبل ارتداء القفازات وبعد تغييرها.",
+        "optionsAr": [
+            "صحيح",
+            "خطأ"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "The handwashing sink can be used for washing equipment and food.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "questionBn": "হাত ধোয়ার সিঙ্ক সরঞ্জাম এবং খাবার ধোয়ার জন্য ব্যবহার করা যেতে পারে।",
+        "optionsBn": [
+            "সত্য",
+            "মিথ্যা"
+        ],
+        "questionAr": "يمكن استخدام مغسلة غسيل اليدين لغسل المعدات والطعام.",
+        "optionsAr": [
+            "صحيح",
+            "خطأ"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the correct duration for handwashing?",
+        "options": [
+            "A. 5 seconds.",
+            "B. 10 seconds.",
+            "C. At least 20 seconds."
+        ],
+        "questionBn": "হাত ধোয়ার সঠিক সময়কাল কত?",
+        "optionsBn": [
+            "A. ৫ সেকেন্ড।",
+            "B. ১০ সেকেন্ড।",
+            "C. অন্তত ২০ সেকেন্ড।"
+        ],
+        "questionAr": "ما هي المدة الصحيحة لغسل اليدين؟",
+        "optionsAr": [
+            "A. 5 ثوانٍ.",
+            "B. 10 ثوانٍ.",
+            "C. 20 ثانية على الأقل."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What should you do if you need to sneeze while handling food?",
+        "options": [
+            "A. Sneeze directly onto the food.",
+            "B. Move away from the food and cover your mouth with your arm.",
+            "C. Sneeze into your hands and continue working."
+        ],
+        "questionBn": "খাদ্য নাড়াচাড়া করার সময় হাঁচি দেওয়ার প্রয়োজন হলে আপনার কী করা উচিত?",
+        "optionsBn": [
+            "A. খাবারের ওপর সরাসরি হাঁচি দেওয়া।",
+            "B. খাবার থেকে দূরে সরে যাওয়া এবং আপনার হাত দিয়ে মুখ ঢেকে রাখা।",
+            "C. আপনার হাতের মধ্যে হাঁচি দেওয়া এবং কাজ চালিয়ে যাওয়া।"
+        ],
+        "questionAr": "ماذا يجب أن تفعل إذا احتجت إلى العطس أثناء تداول الطعام؟",
+        "optionsAr": [
+            "A. العطس مباشرة على الطعام.",
+            "B. الابتعاد عن الطعام وتغطية الفم بساعدك.",
+            "C. العطس في يديك ومواصلة العمل."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the preferred color for bandages used to cover wounds in food preparation areas?",
+        "options": [
+            "A. Transparent.",
+            "B. White.",
+            "C. Blue."
+        ],
+        "questionBn": "খাদ্য প্রস্তুতকরণ এলাকায় ক্ষত ঢাকার জন্য ব্যবহৃত ব্যান্ডেজের পছন্দসই রঙ কোনটি?",
+        "optionsBn": [
+            "A. স্বচ্ছ।",
+            "B. সাদা।",
+            "C. নীল।"
+        ],
+        "questionAr": "ما هو اللون المفضل للضمادات المستخدمة لتغطية الجروح في مناطق إعداد الطعام؟",
+        "optionsAr": [
+            "A. شفاف.",
+            "B. أبيض.",
+            "C. أزرق."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Cleaning and sanitizing are the same thing.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "questionBn": "পরিষ্কার করা (Cleaning) এবং স্যানিটাইজ করা একই জিনিস।",
+        "optionsBn": [
+            "সত্য",
+            "মিথ্যা"
+        ],
+        "questionAr": "التنظيف والتطهير هما شيء واحد.",
+        "optionsAr": [
+            "صحيح",
+            "خطأ"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Garbage poses no risk to food safety.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "questionBn": "আবর্জনা খাদ্য নিরাপত্তার জন্য কোনো ঝুঁকি তৈরি করে না।",
+        "optionsBn": [
+            "সত্য",
+            "মিথ্যা"
+        ],
+        "questionAr": "القمامة لا تشكل أي خطر على سلامة الغذاء.",
+        "optionsAr": [
+            "صحيح",
+            "خطأ"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "An unusual smell in the establishment can indicate the presence of pests.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "questionBn": "প্রতিষ্ঠানে একটি অস্বাভাবিক গন্ধ পোকা-মাকড় বা ক্ষতিকারক জীবের উপস্থিতি নির্দেশ করতে পারে।",
+        "optionsBn": [
+            "সত্য",
+            "মিথ্যা"
+        ],
+        "questionAr": "الرائحة غير العادية في المنشأة قد تشير إلى وجود الآفات.",
+        "optionsAr": [
+            "صحيح",
+            "خطأ"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the appropriate water temperature for main cleaning?",
+        "options": [
+            "07. \\°C",
+            "B. ⊂O°C",
+            "C. 50°C"
+        ],
+        "questionBn": "প্রধান পরিষ্কারের জন্য উপযুক্ত জলের তাপমাত্রা কত?",
+        "optionsBn": [
+            "07. \\°C",
+            "B. ⊂O°C",
+            "C. 50°C"
+        ],
+        "questionAr": "ما هي درجة حرارة الماء المناسبة للتنظيف الرئيسي؟",
+        "optionsAr": [
+            "07. \\°C",
+            "B. ⊂O°C",
+            "C. 50°C"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following is not a characteristic of an ideal garbage container?",
+        "options": [
+            "A. Can be opened by hand",
+            "B. Pest-resistant",
+            "C. Equipped with a tightly closed lid"
+        ],
+        "questionBn": "নিচের কোনটি আদর্শ আবর্জনা পাত্রের বৈশিষ্ট্য নয়?",
+        "optionsBn": [
+            "A. হাত দিয়ে খোলা যায়",
+            "B. পোকা-মাকড় প্রতিরোধী",
+            "C. শক্তভাবে বন্ধ ঢাকনাযুক্ত"
+        ],
+        "questionAr": "أي مما يلي ليس من خصائص حاوية القمامة المثالية؟",
+        "optionsAr": [
+            "A. يمكن فتحها باليد",
+            "B. مقاومة للآفات",
+            "C. مزودة بغطاء محكم الإغلاق"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What should you do if you see signs of pests in a food establishment?",
+        "options": [
+            "A. Ignore it if the pests are few",
+            "B. Report immediately to the supervisor",
+            "C. Try to control the pests yourself"
+        ],
+        "questionBn": "খাদ্য প্রতিষ্ঠানে পোকা-মাকড় বা পেস্টের লক্ষণ দেখলে আপনার কী করা উচিত?",
+        "optionsBn": [
+            "A. কম থাকলে তা উপেক্ষা করা",
+            "B. অবিলম্বে সুপারভাইজারকে জানানো",
+            "C. নিজেই তা নিয়ন্ত্রণের চেষ্টা করা"
+        ],
+        "questionAr": "ماذا يجب أن تفعل إذا رأيت علامات وجود آفات في منشأة غذائية؟",
+        "optionsAr": [
+            "A. تجاهلها إذا كانت الآفات قليلة",
+            "B. الإبلاغ فوراً للمشرف",
+            "C. محاولة مكافحة الآفات بنفسك"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "General requirements for food establishments only include building design and do not address equipment and tool quality.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "questionBn": "খাদ্য প্রতিষ্ঠানের সাধারণ প্রয়োজনীয়তাগুলির মধ্যে কেবল ভবনের নকশা অন্তর্ভুক্ত এবং এটি সরঞ্জাম ও যন্ত্রপাতির গুণমানকে অন্তর্ভুক্ত করে না।",
+        "optionsBn": [
+            "সত্য",
+            "মিথ্যা"
+        ],
+        "questionAr": "المتطلبات العامة للمنشآت الغذائية تشمل تصميم المبنى فقط ولا تتطرق إلى جودة المعدات والأدوات.",
+        "optionsAr": [
+            "صحيح",
+            "خطأ"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Floors, walls, and ceilings of food establishments should be waterproof and easy to clean.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "questionBn": "খাদ্য প্রতিষ্ঠানের মেঝেও দেয়াল এবং ছাদ জলরোধী এবং পরিষ্কার করা সহজ হওয়া উচিত।",
+        "optionsBn": [
+            "সত্য",
+            "মিথ্যা"
+        ],
+        "questionAr": "يجب أن تكون أرضيات وجدران وأسقف المنشآت الغذائية مقاومة للماء وسهلة التنظيف.",
+        "optionsAr": [
+            "صحيح",
+            "خطأ"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "It is acceptable to use the same sink for washing vegetables and dishes, as long as it is thoroughly cleaned between uses.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "questionBn": "শাকসবজি এবং থালাবাসন ধোয়ার জন্য একই সিঙ্ক ব্যবহার করা গ্রহণযোগ্য, যতক্ষণ না এটি ব্যবহারের মাঝে ভালোভাবে পরিষ্কার করা হয়।",
+        "optionsBn": [
+            "সত্য",
+            "মিথ্যা"
+        ],
+        "questionAr": "من المقبول استخدام نفس المغسلة لغسل الخضار والأطباق طالما تم تنظيفها جيداً بين الاستخدامات.",
+        "optionsAr": [
+            "صحيح",
+            "خطأ"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the primary purpose of separating clean areas from unclean areas in food establishments?",
+        "options": [
+            "A. Providing more workspace",
+            "B. Preventing cross-contamination between areas",
+            "C. Simplifying the cleaning process"
+        ],
+        "questionBn": "খাদ্য প্রতিষ্ঠানে অপরিষ্কার এলাকা থেকে পরিষ্কার এলাকা আলাদা করার মূল উদ্দেশ্য কী?",
+        "optionsBn": [
+            "A. আরও কাজের জায়গা প্রদান করা",
+            "B. এলাকাগুলির মধ্যে ক্রস-দূষণ প্রতিরোধ করা",
+            "C. পরিচ্ছন্নতার প্রক্রিয়া সরল করা"
+        ],
+        "questionAr": "ما هو الغرض الرئيسي من فصل المناطق النظيفة عن المناطق غير النظيفة في المنشآت الغذائية؟",
+        "optionsAr": [
+            "A. توفير مساحة عمل أكبر",
+            "B. منع التلوث المتقاطع بين المناطق",
+            "C. تبسيط عملية التنظيف"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Why should equipment and tools in food establishments be made of specific materials?",
+        "options": [
+            "A. To make them cheaper",
+            "B. To make them heavier and more stable",
+            "C. To ensure they are safe and easy to clean"
+        ],
+        "questionBn": "খাদ্য প্রতিষ্ঠানের যন্ত্রপাতি এবং সরঞ্জাম নির্দিষ্ট উপকরণের তৈরি হওয়া উচিত কেন?",
+        "optionsBn": [
+            "A. সেগুলি সস্তা করার জন্য",
+            "B. সেগুলি ভারী এবং আরও স্থিতিশীল করার জন্য",
+            "C. সেগুলি নিরাপদ এবং পরিষ্কার করা সহজ তা নিশ্চিত করার জন্য"
+        ],
+        "questionAr": "لماذا يجب أن تكون المعدات والأدوات في المنشآت الغذائية مصنوعة من مواد محددة؟",
+        "optionsAr": [
+            "A. لتكون أرخص ثمنًا",
+            "B. لتكون أثقل وأكثر ثباتاً",
+            "C. لضمان كونها آمنة وسهلة التنظيف"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the correct step to take if you see a broken light fixture in the food preparation area?",
+        "options": [
+            "A. Ignore it as long as there is enough light from other sources.",
+            "B. Try to fix the light fixture yourself.",
+            "C. Immediately report the broken light fixture to the supervisor."
+        ],
+        "questionBn": "খাবার প্রস্তুতকরণ এলাকায় ভাঙা লাইট ফিটিং দেখলে সঠিক পদক্ষেপ কী?",
+        "optionsBn": [
+            "A. অন্যান্য উৎস থেকে পর্যাপ্ত আলো থাকলে তা উপেক্ষা করা।",
+            "B. লাইট ফিটিংটি নিজেই ঠিক করার চেষ্টা করা।",
+            "C. অবিলম্বে ভাঙা লাইট ফিটিং সম্পর্কে সুপারভাইজারকে জানানো।"
+        ],
+        "questionAr": "ما هي الخطوة الصحيحة التي يجب اتخاذها إذا رأيت وحدة إضاءة مكسورة في منطقة إعداد الطعام؟",
+        "optionsAr": [
+            "A. تجاهلها طالما توجد إضاءة كافية من مصادر أخرى.",
+            "B. محاولة إصلاح وحدة الإضاءة بنفسك.",
+            "C. الإبلاغ فوراً عن وحدة الإضاءة المكسورة للمشرف."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Food safety management is only related to the preparation and serving stages in a food establishment.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "questionBn": "খাদ্য নিরাপত্তা ব্যবস্থাপনা কেবল একটি খাদ্য প্রতিষ্ঠানে প্রস্তুতি এবং পরিবেশন পর্যায়ের সাথে সম্পর্কিত।",
+        "optionsBn": [
+            "সত্য",
+            "মিথ্যা"
+        ],
+        "questionAr": "إدارة سلامة الغذاء تتعلق فقط بمرحلتي الإعداد والتقديم في المنشأة الغذائية.",
+        "optionsAr": [
+            "صحيح",
+            "خطأ"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The HACCP system focuses on addressing problems in food production after they occur.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "questionBn": "HACCP পদ্ধতিটি খাদ্য উৎপাদনে সমস্যা ঘটার পরে তা সমাধানের ওপর দৃষ্টি নিবদ্ধ করে।",
+        "optionsBn": [
+            "সত্য",
+            "মিথ্যা"
+        ],
+        "questionAr": "يركز نظام الهاسب (HACCP) على معالجة المشاكل في إنتاج الغذاء بعد حدوثها.",
+        "optionsAr": [
+            "صحيح",
+            "خطأ"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "It is essential to implement basic requirements like safe facility design and adequate facilities before implementing the HACCP system.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "questionBn": "HACCP পদ্ধতি বাস্তবায়নের আগে নিরাপদ সুবিধার নকশা এবং পর্যাপ্ত সুবিধার মতো মৌলিক প্রয়োজনীয়তাগুলি বাস্তবায়ন করা আবশ্যক।",
+        "optionsBn": [
+            "সত্য",
+            "মিথ্যা"
+        ],
+        "questionAr": "من الضروري تطبيق المتطلبات الأساسية مثل تصميم المنشأة الآمن والتسهيلات الكافية قبل تطبيق نظام الهاسب (HACCP).",
+        "optionsAr": [
+            "صحيح",
+            "خطأ"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the first step in implementing the HACCP system?",
+        "options": [
+            "A. Conducting a hazard analysis",
+            "B. Forming the HACCP team",
+            "C. Identifying critical control points"
+        ],
+        "questionBn": "HACCP পদ্ধতি বাস্তবায়নের প্রথম ধাপ কী?",
+        "optionsBn": [
+            "A. একটি ঝুঁকি বিশ্লেষণ (hazard analysis) পরিচালনা করা",
+            "B. HACCP দল গঠন করা",
+            "C. ক্রিটিক্যাল কন্ট্রোল পয়েন্ট (CCPs) চিহ্নিত করা"
+        ],
+        "questionAr": "ما هي الخطوة الأولى في تطبيق نظام الهاسب (HACCP)؟",
+        "optionsAr": [
+            "A. إجراء تحليل المخاطر",
+            "B. تشكيل فريق الهاسب",
+            "C. تحديد نقاط التحكم الحرجة"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following is not a condition for implementing the HACCP system?",
+        "options": [
+            "A. Establishing clear quality standards for raw materials",
+            "B. Implementing an effective pest control plan",
+            "C. Determining corrective actions for critical control points"
+        ],
+        "questionBn": "নিচের কোনটি HACCP পদ্ধতি বাস্তবায়নের শর্ত নয়?",
+        "optionsBn": [
+            "A. কাঁচামালের জন্য স্পষ্ট গুণমানের মান প্রতিষ্ঠা করা",
+            "B. একটি কার্যকর পেস্ট কন্ট্রোল পরিকল্পনা বাস্তবায়ন করা",
+            "C. ক্রিটিক্যাল কন্ট্রোল পয়েন্টের জন্য সংশোধনমূলক পদক্ষেপ নির্ধারণ করা"
+        ],
+        "questionAr": "أي مما يلي ليس شرطاً لتطبيق نظام الهاسب (HACCP)؟",
+        "optionsAr": [
+            "A. وضع معايير جودة واضحة للمواد الخام",
+            "B. تنفيذ خطة فعالة لمكافحة الآفات",
+            "C. تحديد الإجراءات التصحيحية لنقاط التحكم الحرجة"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the primary purpose of creating a documentation and record-keeping system in the HACCP system?",
+        "options": [
+            "A. Increasing the administrative burden on workers",
+            "B. Proving the implementation and maintenance of the HACCP system",
+            "C. Improving relationships with suppliers"
+        ],
+        "questionBn": "HACCP পদ্ধতিতে ডকুমেন্টেশন এবং রেকর্ড-কিপিং সিস্টেম তৈরির মূল উদ্দেশ্য কী?",
+        "optionsBn": [
+            "A. কর্মীদের ওপর প্রশাসনিক বোঝা বাড়ানো",
+            "B. HACCP পদ্ধতির বাস্তবায়ন এবং রক্ষণাবেক্ষণ প্রমাণ করা",
+            "C. সরবরাহকারীদের সাথে সম্পর্ক উন্নত করা"
+        ],
+        "questionAr": "ما هو الغرض الرئيسي من إنشاء نظام التوثيق وحفظ السجلات في نظام الهاسب (HACCP)؟",
+        "optionsAr": [
+            "A. زيادة العبء الإداري على العمال",
+            "B. إثبات تطبيق نظام الهاسب وصيانته",
+            "C. تحسين العلاقات مع الموردين"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Refrigerated food should be stored at 5 degrees Celsius or lower.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "questionBn": "রেফ্রিজারেটেড খাদ্য ৫ ডিগ্রি সেলসিয়াস বা তার কম তাপমাত্রায় সংরক্ষণ করা উচিত।",
+        "optionsBn": [
+            "সত্য",
+            "মিথ্যা"
+        ],
+        "questionAr": "يجب تخزين الطعام المبرد في درجة حرارة 5 درجات مئوية أو أقل.",
+        "optionsAr": [
+            "صحيح",
+            "خطأ"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Food can only be reheated to a temperature of 60 degrees Celsius.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "questionBn": "খাদ্য কেবল ৬০ ডিগ্রি সেলসিয়াস তাপমাত্রায় পুনরায় গরম করা যেতে পারে।",
+        "optionsBn": [
+            "সত্য",
+            "মিথ্যা"
+        ],
+        "questionAr": "يمكن إعادة تسخين الطعام فقط إلى درجة حرارة 60 درجة مئوية.",
+        "optionsAr": [
+            "صحيح",
+            "خطأ"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "It is essential to separate raw food from ready-to-eat food during preparation.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "questionBn": "প্রস্তুতির সময় কাঁচা খাবারকে খাওয়ার উপযোগী খাবার থেকে আলাদা করা আবশ্যক।",
+        "optionsBn": [
+            "সত্য",
+            "মিথ্যা"
+        ],
+        "questionAr": "من الضروري فصل الطعام النيء عن الطعام الجاهز للأكل أثناء الإعداد.",
+        "optionsAr": [
+            "صحيح",
+            "خطأ"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the proper internal temperature for cooking food safely?",
+        "options": [
+            "A. &O°C",
+            "B. 50°C",
+            "05. 96°C"
+        ],
+        "questionBn": "নিরাপদে খাদ্য রান্নার জন্য সঠিক অভ্যন্তরীণ তাপমাত্রা কত?",
+        "optionsBn": [
+            "A. &O°C",
+            "B. 50°C",
+            "05. 96°C"
+        ],
+        "questionAr": "ما هي درجة الحرارة الداخلية المناسبة لطهي الطعام بآمان؟",
+        "optionsAr": [
+            "A. &O°C",
+            "B. 50°C",
+            "05. 96°C"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "How long should hot food take to cool down?",
+        "options": [
+            "A. Within 1 hour",
+            "B. Within 1.5 hours",
+            "C. Within 2 hours"
+        ],
+        "questionBn": "গরম খাবার ঠান্ডা হতে কত সময় লাগা উচিত?",
+        "optionsBn": [
+            "A. ১ ঘণ্টার মধ্যে",
+            "B. ১.৫ ঘণ্টার মধ্যে",
+            "C. ২ ঘণ্টার মধ্যে"
+        ],
+        "questionAr": "كم من الوقت يجب أن يستغرق الطعام الساخن ليبرد؟",
+        "optionsAr": [
+            "A. خلال ساعة واحدة",
+            "B. خلال 1.5 ساعة",
+            "C. خلال ساعتين"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the suitable temperature for displaying hot food?",
+        "options": [
+            "A. ⊂°C or above",
+            "B. 50°C or above",
+            "C. 510°C or above"
+        ],
+        "questionBn": "গরম খাবার প্রদর্শনের জন্য উপযুক্ত তাপমাত্রা কত?",
+        "optionsBn": [
+            "A. ⊂°C বা তার বেশি",
+            "B. 50°C বা তার বেশি",
+            "C. 510°C বা তার বেশি"
+        ],
+        "questionAr": "ما هي درجة الحرارة المناسبة لعرض الطعام الساخن؟",
+        "optionsAr": [
+            "A. ⊂°C أو أعلى",
+            "B. 50°C أو أعلى",
+            "C. 510°C أو أعلى"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "When cleaning and sanitizing surfaces using the 4-step method, you must always rinse the surface after using a sanitizer.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "questionBn": "৪-ধাপের পদ্ধতি ব্যবহার করে পৃষ্ঠ পরিষ্কার এবং স্যানিটাইজ করার সময়, স্যানিটাইজার ব্যবহার করার পরে আপনাকে অবশ্যই সর্বদা পৃষ্ঠটি ধুয়ে ফেলতে হবে।",
+        "optionsBn": [
+            "সত্য",
+            "মিথ্যা"
+        ],
+        "questionAr": "عند تنظيف وتطهير الأسطح باستخدام طريقة الخطوات الأربع، يجب عليك دائماً شطف السطح بعد استخدام المطهر.",
+        "optionsAr": [
+            "صحيح",
+            "خطأ"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "In a three-sink method for cleaning and sanitizing dishes, the first sink is used for main cleaning and the third sink is used for sanitizing.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "questionBn": "থালাবাসন পরিষ্কার এবং স্যানিটাইজ করার জন্য থ্রি-সিঙ্ক পদ্ধতিতে, প্রথম সিঙ্কটি প্রধান পরিষ্কারের জন্য এবং তৃতীয় সিঙ্কটি স্যানিটাইজ করার জন্য ব্যবহৃত হয়।",
+        "optionsBn": [
+            "সত্য",
+            "মিথ্যা"
+        ],
+        "questionAr": "في طريقة الأحواض الثلاثة لتنظيف وتطهير الأطباق، يُستخدم الحوض الأول للتنظيف الرئيسي والحوض الثالث للتطهير.",
+        "optionsAr": [
+            "صحيح",
+            "خطأ"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "When storing dry food, it should be placed directly on the floor to ensure stability.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "questionBn": "শুকনো খাবার সংরক্ষণ করার সময়, স্থিতিশীলতা নিশ্চিত করতে এটি সরাসরি মেঝেতে রাখা উচিত।",
+        "optionsBn": [
+            "সত্য",
+            "মিথ্যা"
+        ],
+        "questionAr": "عند تخزين الأغذية الجافة، يجب وضعها مباشرة على الأرض لضمان الاستقرار.",
+        "optionsAr": [
+            "صحيح",
+            "خطأ"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the appropriate temperature for storing frozen food?",
+        "options": [
+            "A. 0 degrees Celsius",
+            "B. -18 degrees Celsius or lower",
+            "C. -10 degrees Celsius"
+        ],
+        "questionBn": "হিমায়িত খাদ্য সংরক্ষণের জন্য উপযুক্ত তাপমাত্রা কত?",
+        "optionsBn": [
+            "A. ০ ডিগ্রি সেলসিয়াস",
+            "B. -১৮ ডিগ্রি সেলসিয়াস বা তার কম",
+            "C. -১০ ডিগ্রি সেলসিয়াস"
+        ],
+        "questionAr": "ما هي درجة الحرارة المناسبة لتخزين الأغذية المجمدة؟",
+        "optionsAr": [
+            "A. 0 درجة مئوية",
+            "B. -18 درجة مئوية أو أقل",
+            "C. -10 درجات مئوية"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "When applying the \"First In, First Out\" (FIFO) principle in food storage, you must:",
+        "options": [
+            "A. Keep the newest products at the front for use",
+            "B. Store older products at the back or bottom",
+            "C. Not worry about arranging products according to the expiration date"
+        ],
+        "questionBn": "খাদ্য সংরক্ষণে \"First In, First Out\" (FIFO) নীতি প্রয়োগ করার সময়, আপনাকে অবশ্যই করতে হবে:",
+        "optionsBn": [
+            "A. ব্যবহারের জন্য নতুন পণ্যগুলি সামনে রাখা",
+            "B. পুরানো পণ্যগুলি পিছনে বা নিচে সংরক্ষণ করা",
+            "C. মেয়াদের তারিখ অনুযায়ী পণ্য সাজানোর বিষয়ে চিন্তা না করা"
+        ],
+        "questionAr": "عند تطبيق مبدأ \"ما يدخل أولاً يخرج أولاً\" (FIFO) في تخزين الطعام، يجب عليك:",
+        "optionsAr": [
+            "A. إبقاء المنتجات أحدثها في المقدمة للاستخدام",
+            "B. تخزين المنتجات الأقدم في الخلف أو في الأسفل",
+            "C. عدم القلق بشأن ترتيب المنتجات حسب تاريخ انتهاء الصلاحية"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "When using a two-sink method for cleaning and sanitizing dishes, what is the appropriate water temperature for thermal sanitization?",
+        "options": [
+            "A. 50 degrees Celsius for one minute",
+            "B. 60 degrees Celsius for 30 seconds",
+            "C. 75 degrees Celsius for 30 seconds or 82 degrees Celsius for 10 seconds"
+        ],
+        "questionBn": "থালাবাসন পরিষ্কার এবং স্যানিটাইজ করার জন্য টু-সিঙ্ক পদ্ধতি ব্যবহার করার সময়, তাপীয় স্যানিটাইজেশনের (thermal sanitization) জন্য উপযুক্ত জলের তাপমাত্রা কত?",
+        "optionsBn": [
+            "A. ১ মিনিটের জন্য ৫০ ডিগ্রি সেলসিয়াস",
+            "B. ৩০ সেকেন্ডের জন্য ৬০ ডিগ্রি সেলসিয়াস",
+            "C. ৩০ সেকেন্ডের জন্য ৭৫ ডিগ্রি সেলসিয়াস বা ১০ সেকেন্ডের জন্য ৮২ ডিগ্রি সেলসিয়াস"
+        ],
+        "questionAr": "عند استخدام طريقة الحوضين لتنظيف وتطهير الأطباق، ما هي درجة حرارة الماء المناسبة للتطهير الحراري؟",
+        "optionsAr": [
+            "A. 50 درجة مئوية لمدة دقيقة واحدة",
+            "B. 60 درجة مئوية لمدة 30 ثانية",
+            "C. 75 درجة مئوية لمدة 30 ثانية أو 82 درجة مئوية لمدة 10 ثوانٍ"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Chemical materials should be stored near food for easy access.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "questionBn": "সহজে পাওয়ার জন্য খাবারের কাছে রাসায়নিক পদার্থ সংরক্ষণ করা উচিত।",
+        "optionsBn": [
+            "সত্য",
+            "মিথ্যা"
+        ],
+        "questionAr": "يجب تخزين المواد الكيميائية بالقرب من الطعام لسهولة الوصول إليها.",
+        "optionsAr": [
+            "صحيح",
+            "خطأ"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "When lifting heavy objects, you should rely on your back muscles instead of your leg muscles.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "questionBn": "ভারী বস্তু তোলার সময়, আপনার পায়ের পেশীর বদলে পিঠের পেশীর ওপর নির্ভর করা উচিত।",
+        "optionsBn": [
+            "সত্য",
+            "মিথ্যা"
+        ],
+        "questionAr": "عند رفع الأشياء الثقيلة، يجب أن تعتمد على عضلات ظهرك بدلاً من عضلات ساقيك.",
+        "optionsAr": [
+            "صحيح",
+            "خطأ"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "You should wash your hands before giving first aid to an injured person.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "questionBn": "আহত ব্যক্তিকে প্রাথমিক চিকিৎসা দেওয়ার আগে আপনার হাত ধোয়া উচিত।",
+        "optionsBn": [
+            "সত্য",
+            "মিথ্যা"
+        ],
+        "questionAr": "يجب عليك غسل يديك قبل تقديم الإسعافات الأولية للشخص المصاب.",
+        "optionsAr": [
+            "صحيح",
+            "خطأ"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the appropriate personal protective equipment when handling cleaning and sanitizing materials?",
+        "options": [
+            "A. Protective glasses",
+            "B. Gloves",
+            "C. Mask"
+        ],
+        "questionBn": "পরিষ্কার এবং স্যানিটাইজিং উপকরণ নাড়াচাড়া করার সময় উপযুক্ত ব্যক্তিগত সুরক্ষামূলক সরঞ্জাম (PPE) কোনটি?",
+        "optionsBn": [
+            "A. সুরক্ষামূলক চশমা (Protective glasses)",
+            "B. গ্লাভস",
+            "C. মাস্ক"
+        ],
+        "questionAr": "ما هي معدات الوقاية الشخصية المناسبة عند التعامل مع مواد التنظيف والتطهير؟",
+        "optionsAr": [
+            "A. نظارات واقية",
+            "B. قفازات",
+            "C. كمامة"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the correct procedure when a cut occurs during food preparation?",
+        "options": [
+            "A. If the cut is small, continue working",
+            "B. Wash the cut with soap and water and cover it with a waterproof bandage",
+            "C. Apply ointment to the cut and leave it open to breathe"
+        ],
+        "questionBn": "খাদ্য প্রস্তুত করার সময় কেটে গেলে সঠিক পদ্ধতি কোনটি?",
+        "optionsBn": [
+            "A. কাটা ছোট হলে কাজ চালিয়ে যাওয়া",
+            "B. কাটা অংশটি সাবান এবং জল দিয়ে ধোয়া এবং ওয়াটারপ্রুফ ব্যান্ডেজ দিয়ে ঢেকে দেওয়া",
+            "C. কাটা অংশে মলম লাগানো এবং বাতাসের জন্য খোলা রাখা"
+        ],
+        "questionAr": "ما هو الإجراء الصحيح عند حدوث جرح أثناء تحضير الطعام؟",
+        "optionsAr": [
+            "A. إذا كان الجرح صغيراً، واصل العمل",
+            "B. غسل الجرح بالماء والصابون وتغطيتها بضمادة مقاومة للماء",
+            "C. وضع مرهم على الجرح وتركه مكشوفاً ليتنفس"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "How should cleaning equipment be stored in a food establishment?",
+        "options": [
+            "With food products",
+            "Anywhere",
+            "In a designated local area away from food",
+            "With food preparation equipment"
+        ],
+        "questionBn": "খাদ্য প্রতিষ্ঠানে পরিষ্কারের সরঞ্জাম কীভাবে সংরক্ষণ করা উচিত?",
+        "optionsBn": [
+            "খাদ্য পণ্যের সাথে",
+            "যেকোনো জায়গায়",
+            "খাবার থেকে দূরে নির্দিষ্ট স্থানীয় এলাকায়",
+            "খাদ্য প্রস্তুতকরণ সরঞ্জামের সাথে"
+        ],
+        "questionAr": "كيف ينبغي تخزين أدوات ومعدات التنظيف في المنشأة الغذائية؟",
+        "optionsAr": [
+            "مع المنتجات الغذائية",
+            "في أي مكان",
+            "في منطقة محلية مخصصة بعيداً عن الطعام",
+            "مع معدات تحضير الطعام"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the best way to control food spoilage?",
+        "options": [
+            "Checking when storing food",
+            "Ignoring the expiration date",
+            "Keeping different foods mixed",
+            "Keeping food at room temperature"
+        ],
+        "questionBn": "খাদ্য নষ্ট হওয়া নিয়ন্ত্রণের সেরা উপায় কোনটি?",
+        "optionsBn": [
+            "খাবার সংরক্ষণ করার সময় পরীক্ষা করা",
+            "মেয়াদের তারিখ উপেক্ষা করা",
+            "বিভিন্ন খাবার মিশ্রিত রাখা",
+            "খাবার ঘরের তাপমাত্রায় রাখা"
+        ],
+        "questionAr": "ما هي أفضل طريقة للتحكم في تلف الطعام؟",
+        "optionsAr": [
+            "التحقق عند تخزين الطعام",
+            "تجاهل تاريخ انتهاء الصلاحية",
+            "إبقاء الأطعمة المختلفة مخلوطة",
+            "إبقاء الطعام في درجة حرارة الغرفة"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Look at the picture carefully, does it reflect correct or incorrect behavior?",
+        "options": [
+            "Correct behavior",
+            "Incorrect behavior"
+        ],
+        "questionBn": "ছবিটি সতর্কতার সাথে দেখুন, এটি কি সঠিক নাকি ভুল আচরণ প্রতিফলিত করে?",
+        "optionsBn": [
+            "সঠিক আচরণ",
+            "ভুল আচরণ"
+        ],
+        "questionAr": "انظر إلى الصورة بعناية، هل تعكس سلوكاً صحيحاً أم خاطئاً؟",
+        "optionsAr": [
+            "سلوك صحيح",
+            "سلوك خاطئ"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Covering and protecting the food can completely prevent it from spoiling.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "questionBn": "খাবার ঢেকে রাখা এবং রক্ষা করা এটিকে পচে যাওয়া থেকে সম্পূর্ণভাবে রোধ করতে পারে।",
+        "optionsBn": [
+            "সত্য",
+            "মিথ্যা"
+        ],
+        "questionAr": "تغطية الطعام وحمايته يمكن أن تمنعه تماماً من التلف.",
+        "optionsAr": [
+            "صحيح",
+            "خطأ"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "If the sanitizer used is stronger than the recommended concentration, it might be more effective in killing germs.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "questionBn": "যদি ব্যবহৃত স্যানিটাইজার প্রস্তাবিত ঘনত্বের চেয়ে বেশি শক্তিশালী হয়, তবে এটি জীবাণু ধ্বংস করতে আরও কার্যকর হতে পারে।",
+        "optionsBn": [
+            "সত্য",
+            "মিথ্যা"
+        ],
+        "questionAr": "إذا كان المطهر المستخدم أقوى من التركيز الموصى به، فقد يكون أكثر فعالية في قتل الجراثيم.",
+        "optionsAr": [
+            "صحيح",
+            "خطأ"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Arrange the steps for proper handwashing:",
+        "options": [
+            "Drying hands with clean paper towels",
+            "Removing jewelry and watches",
+            "Using hot water and liquid soap",
+            "Washing hands thoroughly with clean water"
+        ],
+        "questionBn": "সঠিক হাত ধোয়ার ধাপগুলো সাজান:",
+        "optionsBn": [
+            "পরিষ্কার কাগজের তোয়ালে দিয়ে হাত শুকানো",
+            "গয়না এবং ঘড়ি খুলে ফেলা",
+            "গরম জল এবং তরল সাবান ব্যবহার করা",
+            "পরিষ্কার জল দিয়ে হাত ভালোভাবে ধোয়া"
+        ],
+        "questionAr": "رتب خطوات غسيل اليدين الصحيح:",
+        "optionsAr": [
+            "تجفيف اليدين بلمنشفة ورقية نظيفة",
+            "خلع المجوهرات والساعات",
+            "استخدام الماء الساخن والصابون السائل",
+            "غسل اليدين جيداً بالماء النظيف"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "When food residue sticks to pots, the concentration of sanitizer can be increased to compensate for the lack of cleaning.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "questionBn": "যখন পাত্রে খাবারের অবশিষ্টাংশ লেগে থাকে, তখন পরিষ্কারের অভাব পূরণ করতে স্যানিটাইজারের ঘনত্ব বাড়ানো যেতে পারে।",
+        "optionsBn": [
+            "সত্য",
+            "মিথ্যা"
+        ],
+        "questionAr": "عندما تلتصق بقايا الطعام بالأواني، يمكن زيادة تركيز المطهر للتعويض عن نقص التنظيف.",
+        "optionsAr": [
+            "صحيح",
+            "خطأ"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which foods can contain Staphylococcus aureus bacteria (Select all correct answers)?",
+        "options": [
+            "Raw salad",
+            "Raw egg",
+            "Cooked meat",
+            "Cream products",
+            "Unpasteurized milk"
+        ],
+        "questionBn": "কোন খাবারে স্ট্যাফিলোকক্কাস অরিয়াস (Staphylococcus aureus) ব্যাকটেরিয়া থাকতে পারে (সমস্ত সঠিক উত্তর নির্বাচন করুন)?",
+        "optionsBn": [
+            "কাঁচা স্যালাড",
+            "কাঁচা ডিম",
+            "রান্না করা মাংস",
+            "ক্রিম পণ্য",
+            "অপাস্তুরিত দুধ"
+        ],
+        "questionAr": "ما هي الأطعمة التي يمكن أن تحتوي على بكتيريا المكورات العنقودية الذهبية (Staphylococcus aureus) (حدد جميع الإجابات الصحيحة)؟",
+        "optionsAr": [
+            "السلطة النيئة",
+            "البيض النيء",
+            "اللحم المطبوخ",
+            "منتجات القشطة/الكريمة",
+            "الحليب غير المبستر"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the correct step after opening a metal food container?",
+        "options": [
+            "Transfer food ingredients to an appropriate container",
+            "Cover and store the container well",
+            "Use the container directly and throw away leftover food",
+            "Store the container at the correct temperature"
+        ],
+        "questionBn": "একটি ধাতব খাবারের পাত্র খোলার পর সঠিক পদক্ষেপ কোনটি?",
+        "optionsBn": [
+            "খাদ্য উপাদান উপযুক্ত পাত্রে স্থানান্তর করা",
+            "পাত্রটি ভালোভাবে ঢেকে সংরক্ষণ করা",
+            "পাত্রটি সরাসরি ব্যবহার করা এবং বেঁচে যাওয়া খাবার ফেলে দেওয়া",
+            "পাত্রটি সঠিক তাপমাত্রায় সংরক্ষণ করা"
+        ],
+        "questionAr": "ما هي الخطوة الصحيحة بعد فتح علبة طعام معدنية؟",
+        "optionsAr": [
+            "نقل مكونات الطعام إلى حاوية مناسبة",
+            "تغطية العلبة وتخزينها جيداً",
+            "استخدام العلبة مباشرة والتخلص من باقي الطعام",
+            "تخزين العلبة في درجة الحرارة الصحيحة"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Using an infrared thermometer to measure the internal temperature of grilled chicken.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "questionBn": "গ্রিল করা মুরগির অভ্যন্তরীণ তাপমাত্রা পরিমাপ করতে ইনফ্রারেড থার্মোমিটার ব্যবহার করা।",
+        "optionsBn": [
+            "সত্য",
+            "মিথ্যা"
+        ],
+        "questionAr": "استخدام ميزان حرارة بالأشعة تحت الحمراء لقياس درجة الحرارة الداخلية للدجاج المشوي.",
+        "optionsAr": [
+            "صحيح",
+            "خطأ"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the main purpose of cleaning the workspace in a food establishment?",
+        "options": [
+            "To make the workspace shiny",
+            "To remove bad smells",
+            "Unpasteurized milk",
+            "Unpasteurized milk"
+        ],
+        "questionBn": "খাদ্য প্রতিষ্ঠানে কর্মক্ষেত্র পরিষ্কার করার মূল উদ্দেশ্য কী?",
+        "optionsBn": [
+            "কর্মক্ষেত্র চকচকে করা",
+            "দুর্গন্ধ দূর করা",
+            "অপাস্তুরিত দুধ",
+            "অপাস্তুরিত দুধ"
+        ],
+        "questionAr": "ما هو الغرض الرئيسي من تنظيف مكان العمل في المنشأة الغذائية؟",
+        "optionsAr": [
+            "لجعل مكان العمل لامعاً",
+            "لإزالة الروائح الكريهة",
+            "حليب غير مبستر",
+            "حليب غير مبستر"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the direct impact of applying a food safety system?",
+        "options": [
+            "Increase in product price",
+            "Increase in production quantity",
+            "Increase in product shelf life",
+            "Change in product shape"
+        ],
+        "questionBn": "খাদ্য নিরাপত্তা ব্যবস্থা প্রয়োগের প্রত্যক্ষ প্রভাব কী?",
+        "optionsBn": [
+            "পণ্যের দাম বৃদ্ধি",
+            "উৎপাদনের পরিমাণ বৃদ্ধি",
+            "পণ্যের সেলফ লাইফ বৃদ্ধি",
+            "পণ্যের আকারে পরিবর্তন"
+        ],
+        "questionAr": "ما هو الأثر المباشر لتطبيق نظام سلامة الغذاء؟",
+        "optionsAr": [
+            "زيادة سعر المنتج",
+            "زيادة كمية الإنتاج",
+            "زيادة فترة صلاحية المنتج",
+            "تغيير شكل المنتج"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the main principle of arranging food in the storeroom?",
+        "options": [
+            "Arranging by food color so it is easier to identify",
+            "Applying the First In First Out (FIFO) principle",
+            "Keeping dry and cold food together",
+            "Keeping all food together to save space"
+        ],
+        "questionBn": "স্টোররুমে খাবার সাজানোর মূল নীতি কী?",
+        "optionsBn": [
+            "খাদ্যের রঙ অনুযায়ী সাজানো যাতে শনাক্ত করা সহজ হয়",
+            "First In First Out (FIFO) নীতি প্রয়োগ করা",
+            "শুকনো এবং ঠান্ডা খাবার একসাথে রাখা",
+            "জায়গা বাঁচাতে সব খাবার একসাথে রাখা"
+        ],
+        "questionAr": "ما هو المبدأ الرئيسي لترتيب الطعام في المخزن؟",
+        "optionsAr": [
+            "الترتيب حسب لون الطعام لسهولة التعرف عليه",
+            "تطبيق مبدأ ما يدخل أولاً يخرج أولاً (FIFO)",
+            "الحفاظ على الأطعمة الجافة والباردة معاً",
+            "حفظ جميع الأطعمة معاً لتوفير المساحة"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the impact of a food safety system in the workplace?",
+        "options": [
+            "Reducing the number of workers",
+            "Providing a safe and clean work environment",
+            "Increasing working hours",
+            "Increasing operational costs"
+        ],
+        "questionBn": "কর্মক্ষেত্রে খাদ্য নিরাপত্তা ব্যবস্থার প্রভাব কী?",
+        "optionsBn": [
+            "শ্রমিকের সংখ্যা কমানো",
+            "একটি নিরাপদ ও পরিষ্কার কাজের পরিবেশ প্রদান করা",
+            "কাজের সময় বাড়ানো",
+            "পরিচালন ব্যয় বৃদ্ধি"
+        ],
+        "questionAr": "ما هو أثر نظام سلامة الغذاء في مكان العمل؟",
+        "optionsAr": [
+            "تقليل عدد العمال",
+            "توفير بيئة عمل آمنة ونظيفة",
+            "زيادة ساعات العمل",
+            "زيادة التكاليف التشغيلية"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the main role of a government agency in food safety?",
+        "options": [
+            "Increasing food production",
+            "Providing subsidies on food prices",
+            "Marketing food products",
+            "Formulating and implementing regulations"
+        ],
+        "questionBn": "খাদ্য নিরাপত্তায় সরকারি সংস্থার মূল ভূমিকা কী?",
+        "optionsBn": [
+            "খাদ্য উৎপাদন বৃদ্ধি করা",
+            "খাদ্যের দামে ভর্তুকি দেওয়া",
+            "খাদ্য পণ্য বিপণন করা",
+            "প্রবিধান প্রণয়ন ও বাস্তবায়ন করা"
+        ],
+        "questionAr": "ما هو الدور الرئيسي للجهة الحكومية في سلامة الغذاء؟",
+        "optionsAr": [
+            "زيادة إنتاج الغذاء",
+            "تقديم الدعم على أسعار الغذاء",
+            "تسويق المنتجات الغذائية",
+            "صياغة اللوائح وتنفيذها"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which of the following symbols is on alcohol-containing chemical products that must be kept away from heat sources, such as some cleaners or alcohol-based sanitizers?",
+        "options": [
+            "True",
+            "False"
+        ],
+        "questionBn": "অ্যালকোহলযুক্ত রাসায়নিক পণ্যগুলিতে নিচের কোন প্রতীকটি থাকে যা তাপের উৎস থেকে দূরে রাখা আবশ্যক, যেমন কিছু ক্লিনার বা অ্যালকোহল-ভিত্তিক স্যানিটাইজার?",
+        "optionsBn": [
+            "সত্য",
+            "মিথ্যা"
+        ],
+        "questionAr": "أي من الرموز التالية يوجد على المنتجات الكيميائية المحتوية على الكحول والتي يجب إبعادها عن مصادر الحرارة، مثل بعض المنظفات أو المطهرات القائمة على الكحول؟",
+        "optionsAr": [
+            "صحيح",
+            "خطأ"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "When leaving a room due to a fire, doors should be left open to facilitate the entry of firefighters.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "questionBn": "আগুনের কারণে রুম থেকে বের হওয়ার সময়, অগ্নিনির্বাপকদের প্রবেশ সহজ করতে দরজা খোলা রাখা উচিত।",
+        "optionsBn": [
+            "সত্য",
+            "মিথ্যা"
+        ],
+        "questionAr": "عند مغادرة الغرفة بسبب حريق، يجب ترك الأبواب مفتوحة لتسهيل دخول رجال الإطفاء.",
+        "optionsAr": [
+            "صحيح",
+            "خطأ"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the proper cleaning and sanitizing procedure in the four-step method? (Select all correct answers)",
+        "options": [
+            "Cleaning the table/surface by scraping off food waste",
+            "Applying sanitizer and scrubbing well",
+            "Leaving the product on the surface for the recommended time per instructions",
+            "Letting the area dry or using absorbent paper towels",
+            "Rinsing the area with water after sanitizing"
+        ],
+        "questionBn": "চার-ধাপের পদ্ধতিতে সঠিক পরিচ্ছন্নতা ও স্যানিটাইজিং পদ্ধতি কোনটি? (সমস্ত সঠিক উত্তর নির্বাচন করুন)",
+        "optionsBn": [
+            "খাদ্যের বর্জ্য চেঁচে ফেলে টেবিল/পৃষ্ঠ পরিষ্কার করা",
+            "স্যানিটাইজার প্রয়োগ করা এবং ভালোভাবে স্ক্রাব করা",
+            "নির্দেশাবলী অনুযায়ী সুপারিশকৃত সময়ের জন্য পণ্যটি পৃষ্ঠে রেখে দেওয়া",
+            "এলাকাটি শুকাতে দেওয়া বা শোষক কাগজের তোয়ালে ব্যবহার করা",
+            "স্যানিটাইজ করার পর জল দিয়ে এলাকাটি ধুয়ে ফেলা"
+        ],
+        "questionAr": "ما هو إجراء التنظيف والتطهير الصحيح في طريقة الخطوات الأربع؟ (حدد جميع الإجابات الصحيحة)",
+        "optionsAr": [
+            "تنظيف الطاولة/السطح وكشط بقايا الطعام",
+            "وضع المطهر والفرك جيداً",
+            "ترك المنتج على السطح للمدة الموصى بها حسب التعليمات",
+            "ترك المنطقة تجف أو استخدام مناشف ورقية ماصة",
+            "شطف المنطقة بالماء بعد التطهير"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the correct step if damage is discovered in personal protective equipment?",
+        "options": [
+            "Repairing the damaged part yourself",
+            "Informing the supervisor and requesting a replacement",
+            "Continuing to use it until the shift ends",
+            "Using another coworker's equipment"
+        ],
+        "questionBn": "ব্যক্তিগত সুরক্ষামূলক সরঞ্জামে ক্ষতি ধরা পড়লে সঠিক পদক্ষেপ কোনটি?",
+        "optionsBn": [
+            "ক্ষতিগ্রস্ত অংশটি নিজেই মেরামত করা",
+            "সুপারভাইজারকে জানানো এবং পরিবর্তনের জন্য অনুরোধ করা",
+            "শিফট শেষ না হওয়া পর্যন্ত এটি ব্যবহার চালিয়ে যাওয়া",
+            "অন্য সহকর্মীর সরঞ্জাম ব্যবহার করা"
+        ],
+        "questionAr": "ما هي الخطوة الصحيحة إذا اكتُشف تلف في معدات الوقاية الشخصية؟",
+        "optionsAr": [
+            "إصلاح الجزء التالف بنفسك",
+            "إبلاغ المشرف وطلب بديل",
+            "الاستمرار في استخدامها حتى نهاية الوردية",
+            "استخدام معدات زميل آخر"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the correct method when lifting heavy boxes in a warehouse?",
+        "options": [
+            "Going close to the product and lifting by bending the knees",
+            "Bending the back and extending arms to lift",
+            "Lifting quickly and maintaining balance",
+            "Lifting slowly and keeping the back straight"
+        ],
+        "questionBn": "গুদামে ভারী বাক্স তোলার সময় সঠিক পদ্ধতি কোনটি?",
+        "optionsBn": [
+            "পণ্যের কাছাকাছি যাওয়া এবং হাঁটু বাঁকিয়ে তোলা",
+            "পিঠ বাঁকানো এবং তোলার জন্য হাত প্রসারিত করা",
+            "দ্রুত তোলা এবং ভারসাম্য বজায় রাখা",
+            "ধীরে ধীরে তোলা এবং পিঠ সোজা রাখা"
+        ],
+        "questionAr": "ما هي الطريقة الصحيحة عند رفع الصناديق الثقيلة في المستودع؟",
+        "optionsAr": [
+            "الاقتراب من المنتج والرفع عن طريق ثني الركبتين",
+            "ثني الظهر ومد الذراعين للرفع",
+            "الرفع بسرعة والحفاظ على التوازن",
+            "الرفع ببطء والحفاظ على الظهر مستقيماً"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which of the following accelerates food spoilage?",
+        "options": [
+            "Temperature and humidity control",
+            "Keeping raw and cooked food together",
+            "Covering the food well",
+            "Washing hands regularly while working with food"
+        ],
+        "questionBn": "নিচের কোনটি খাদ্যের পচনকে ত্বরান্বিত করে?",
+        "optionsBn": [
+            "তাপমাত্রা এবং আর্দ্রতা নিয়ন্ত্রণ",
+            "কাঁচা এবং রান্না করা খাবার একসাথে রাখা",
+            "খাবার ভালোভাবে ঢেকে রাখা",
+            "খাবার নিয়ে কাজ করার সময় নিয়মিত হাত ধোয়া"
+        ],
+        "questionAr": "أي مما يلي يسرع من تلف الطعام؟",
+        "optionsAr": [
+            "التحكم في درجة الحرارة والرطوبة",
+            "إبقاء الطعام النيء والمطبوخ معاً",
+            "تغطية الطعام جيداً",
+            "غسل اليدين بانتظام أثناء التعامل مع الطعام"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Cooked food can be cooled directly by putting it in the fridge immediately after cooking.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "questionBn": "রান্না করা খাবার রান্নার পরপরই ফ্রিজে রেখে সরাসরি ঠান্ডা করা যায়।",
+        "optionsBn": [
+            "সত্য",
+            "মিথ্যা"
+        ],
+        "questionAr": "يمكن تبريد الطعام المطبوخ مباشرة بوضعه في الثلاجة فور انتهائه من الطهي.",
+        "optionsAr": [
+            "صحيح",
+            "خطأ"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the main goal of wearing heat-resistant gloves in a food establishment?",
+        "options": [
+            "A. To protect hands from cuts or injuries",
+            "B. To protect hands from chemicals",
+            "C. To protect hands from burns",
+            "D. To protect hands from cold"
+        ],
+        "questionBn": "খাদ্য প্রতিষ্ঠানে তাপ-প্রতিরোধী গ্লাভস পরার মূল লক্ষ্য কী?",
+        "optionsBn": [
+            "A. হাতকে কাটা বা আঘাত থেকে রক্ষা করা",
+            "B. হাতকে রাসায়নিক থেকে রক্ষা করা",
+            "C. হাতকে পোড়া থেকে রক্ষা করা",
+            "D. হাতকে ঠান্ডা থেকে রক্ষা করা"
+        ],
+        "questionAr": "ما هو الهدف الرئيسي من ارتداء القفازات المقاومة للحرارة في المنشأة الغذائية؟",
+        "optionsAr": [
+            "A. لحماية اليدين من القطوع أو الإصابات",
+            "B. لحماية اليدين من المواد الكيميائية",
+            "C. لحماية اليدين من الحروق",
+            "D. لحماية اليدين من البرودة"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Covering and protecting the food can completely prevent it from spoiling.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "questionBn": "খাবার ঢেকে রাখা এবং রক্ষা করা এটিকে পচে যাওয়া থেকে সম্পূর্ণভাবে রোধ করতে পারে।",
+        "optionsBn": [
+            "সত্য",
+            "মিথ্যা"
+        ],
+        "questionAr": "تغطية الطعام وحمايته يمكن أن تمنعه تماماً من التلف.",
+        "optionsAr": [
+            "صحيح",
+            "خطأ"
+        ],
+        "correctAnswer": 1
+    }
+]
